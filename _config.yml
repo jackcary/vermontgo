@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Vermont Go Championship]
+description: [Online Tournament]
 plugins:
   - jekyll-relative-links
 relative_links:
