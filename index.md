@@ -8,6 +8,7 @@
 || Jane Doe    | 10k         |      |      |
 
 # Round 1
+
 | White       | Black       | Handicap | Komi | Result |
 | ----------- | ----------- | :------: | :---: | :----: |
-| John Doe    | Jane Doe    | 5        | 0.5. ||
+| John Doe    | Jane Doe    | 5        | 0.5.  |         |
