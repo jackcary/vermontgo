@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
-title: [Vermont Go Championship]
-description: [2020 Fall Tournament (Online Edition)]
+title: Vermont Go Championship
+description: 2020 Online Edition
+author: Jack Cary
+header_pages:
+  - index.md
+  - about.md
 github:
   is_project_page: false
 plugins:
