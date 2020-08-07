@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: [Vermont Go Championship]
 description: [2020 Fall Tournament (Online Edition)]
+github:
+  is_project_page: false
 plugins:
   - jekyll-relative-links
 relative_links:
