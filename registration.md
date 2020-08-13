@@ -3,7 +3,7 @@
 __Pre-registration required by October 23rd, 2020!__
 
 - To register send an email to Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) with the following:
-  - First Name / Last Name
+  - First name / Last name
   - Rank (AGA and/or KGS)
   - Home town
   - KGS username
@@ -11,7 +11,7 @@ __Pre-registration required by October 23rd, 2020!__
 
 ## Registered Players
 
-| #     | Name        | Rank        | Home town | KGS |
+| #     | Name        | Rank        | Home town | KGS username |
 | :---: | :-------- | :---------: | :--- | :--- |
 | 1     | John Doe    | 25k          | Burlington, Vermont | jdoe |
 | 2     | Jane Doe    | 9p         |  Tokyo, Japan    | Happy9p    | 
