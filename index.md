@@ -5,7 +5,7 @@ __Join Vermont Go Club for the 3rd annual Vermont Go Championship and Fall Tourn
 October 24th-25th, 2020
 
 ## Where
-Online!  KGS or OGS (TBD)
+Online!  KGS or OGS (Online Room TBD)
 
 ## Schedule
 ### Round 1
