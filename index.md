@@ -16,14 +16,12 @@ Saturday, October 24th @ 1:00 PM (EDT)
 Sunday, October 25th @ 9:00 AM (EDT)
 
 ## Details
-### 3 rounds
-### AGA rated
-### Time settings
-- 45m+5x30s
-### Ruleset
-Japanese
-### Komi
+- 3 rounds
+- AGA rated (TBD)
+- Time settings: 45m+5x30s
+- Ruleset: Japanese rules
 - 6.5 komi for even games
 - 0.5 komi for handicap games
 
-Pre-registration required by October 23rd, 2020!  [Click here for registration instructions]({{site.baseurl}}/registration)
+__Pre-registration required by October 23rd, 2020!__
+[Click here for registration instructions]({{site.baseurl}}/registration)
