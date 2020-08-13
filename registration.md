@@ -1,6 +1,7 @@
 # Registration
 
 __Pre-registration required by October 23rd, 2020!__
+
 To register send an email to Pete Schumer schumer@middlebury.edu
 
 ## Registered Players
