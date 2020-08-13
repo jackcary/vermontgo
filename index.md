@@ -17,13 +17,13 @@ Online!  KGS or OGS (Online Room TBD)
 
 | Event | Date | Time | Links |
 | :--- | :--- | :--- | :--- |
-|Registration Deadline | Fri, Oct 23 | 11:59 PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
-|Opening Ceremony | Sat, Oct 24 | 8:00 AM| Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
-|Round 1 | Sat, Oct 24 | 9:00 AM| KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
-|Round 2 | Sat, Oct 24 | 1:00| KGS - Vermont Go Club room [TODO: INSERT ROUND 2 LINK HERE](/) |
-|Round 3 | Sun, Oct 25 | 9:00| KGS - Vermont Go Club room [TODO: INSERT ROUND 3 LINK HERE](/) |
-|Round 4 | Sun, Oct 25 | 1:00| KGS - Vermont Go Club room [TODO: INSERT ROUND 4 LINK HERE](/) |
-|Closing Ceremony | Sun, Oct 25 | 5:00 PM| Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
+|Registration Deadline | Fri,&#160;Oct&#160;23 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
+|Opening Ceremony | Sat,&#160;Oct&#160;24 | 8:00&#160;AM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
+|Round 1 | Sat,&#160;Oct&#160;24 | 9:00&#160;AM | KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
+|Round 2 | Sat,&#160;Oct&#160;24 | 1:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 2 LINK HERE](/) |
+|Round 3 | Sun,&#160;Oct&#160;25 | 9:00&#160;AM | KGS - Vermont Go Club room [TODO: INSERT ROUND 3 LINK HERE](/) |
+|Round 4 | Sun,&#160;Oct&#160;25 | 1:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 4 LINK HERE](/) |
+|Closing Ceremony | Sun,&#160;Oct&#160;25 | 5:00&#160;PM| Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
 
 
 ## Details
