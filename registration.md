@@ -1,5 +1,10 @@
 # Registration
 
+__Pre-registration required by October 23rd, 2020!__
+To register send an email to Pete Schumer schumer@middlebury.edu
+
+## Registered Players
+
 | #     | Name        | Rank        | Home town | KGS | OGS|
 | :---: | :-------- | :---------: | :--- | :--- | :--- |
 | 1     | John Doe    | 25k          | Burlington, Vermont | jdoe | jdoe|
