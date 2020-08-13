@@ -14,7 +14,7 @@ October 24th-25th, 2020
 Online!  KGS or OGS (Online Room TBD)
 
 ## Schedule
-| Event | Date | Time | Details|
+| Event | Date | Time | Links |
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Friday, Oct 23| 11:59 PM (EDT)| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu)|
 |Opening Ceremony | Saturday, Oct 24| 8:00 AM (EDT)| Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/)|
