@@ -2,6 +2,8 @@
 title: Information
 ---
 
+# Information
+
 ## What
 __The 3rd annual Vermont Go Championship and Fall Tournament!__
 
