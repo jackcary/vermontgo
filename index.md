@@ -15,4 +15,4 @@ Round 3
 ## Rules
 3 rounds, AGA rated, 45m+5x30s, Japanese rules, 6.5 komi
 
-Pre-registration required by October 23rd, 2020!  [Click here for registration instructions(/registration)
+Pre-registration required by October 23rd, 2020!  [Click here for registration instructions](/registration)
