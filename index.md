@@ -14,8 +14,16 @@ October 24th-25th, 2020
 Online!  KGS or OGS (Online Room TBD)
 
 ## Schedule
+
 | Event | Date | Time | Links |
 | :--- | :--- | :--- | :--- |
+|Registration Deadline | Fri, Oct 23 | 11:59 PM (EDT) | Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
+|Opening Ceremony | Sat, Oct 24 | 8:00 AM (EDT) | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
+|Round 1 | Sat, Oct 24 | 9:00 AM (EDT) | KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
+|Round 2 | Sat, Oct 24 | 1:00 PM (EDT) | KGS - Vermont Go Club room [TODO: INSERT ROUND 2 LINK HERE](/) |
+|Round 3 | Sun, Oct 25 | 9:00 AM (EDT) | KGS - Vermont Go Club room [TODO: INSERT ROUND 3 LINK HERE](/) |
+|Round 4 | Sun, Oct 25 | 1:00 PM (EDT) | KGS - Vermont Go Club room [TODO: INSERT ROUND 4 LINK HERE](/) |
+|Closing Ceremony | Sun, Oct 25 | 5:00 PM (EDT) | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
 
 
 ## Details
