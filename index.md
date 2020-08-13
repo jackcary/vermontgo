@@ -1,5 +1,5 @@
 ## What
-__Join Vermont Go Club for the 3rd annual Vermont Go Championship and Fall Tournament!__
+__The 3rd annual Vermont Go Championship and Fall Tournament!__
 
 ## When
 October 24th-25th, 2020
