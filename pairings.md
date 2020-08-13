@@ -4,7 +4,7 @@
 
 | White       			| Black       			| Handicap 					| Komi 							| Result 						| SGF 						  |
 | :--------- 				| :---------- 			| :------: 					| :---: 						| :----: 						| :----: 						|
-|										|										|										|										|										|                   |
+|	Jane Doe (Happy9p)									|		John Doe (jdoe)								|		9								|		0.5								|			W+100							|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
