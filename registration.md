@@ -3,7 +3,7 @@
 __Pre-registration required by October 23rd, 2020!__
 
 - To register send an email to Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) with the following:
-  - Name
+  - First Name / Last Name
   - Rank (AGA, OGS, and KGS)
   - Home town
   - KGS username
