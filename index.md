@@ -39,5 +39,5 @@ __Pre-registration required by October 23rd, 2020!__
 
 Pairings will be posted before each round on the [Pairings and Results]({{site.baseurl}}/pairings) page
 
-## Details
+## Prizes
 - Prizes for 1st, 2nd, and 3rd place
