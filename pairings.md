@@ -7,7 +7,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 
 ## Round 1
-### Fri, Oct 23	7:00 PM
+### Fri, Oct 23 @	7:00 PM
 
 | White       			| Black       			| Handicap 					| Komi 							| Result 						| SGF 						  |
 | :--------- 				| :---------- 			| :------: 					| :---: 						| :----: 						| :----: 						|
@@ -23,7 +23,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 
 ## Round 2
-### Sat, Oct 24	9:30 AM
+### Sat, Oct 24	@ 9:30 AM
 
 | White       			| Black       			| Handicap 					| Komi 							| Result 						| SGF 						  |
 | :--------- 				| :---------- 			| :------: 					| :---: 						| :----: 						| :----: 						|
@@ -39,7 +39,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 
 ## Round 3
-### Sat, Oct 24	1:00 PM
+### Sat, Oct 24	@ 1:00 PM
 
 | White       			| Black       			| Handicap 					| Komi 							| Result 						| SGF 						  |
 | :--------- 				| :---------- 			| :------: 					| :---: 						| :----: 						| :----: 						|
@@ -55,7 +55,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 
 ## Round 4
-### Sat, Oct 24	3:30 PM
+### Sat, Oct 24	@ 3:30 PM
 
 | White       			| Black       			| Handicap 					| Komi 							| Result 						| SGF 						  |
 | :--------- 				| :---------- 			| :------: 					| :---: 						| :----: 						| :----: 						|
