@@ -22,7 +22,7 @@ The KGS Go Server https://www.gokgs.com/
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Fri,&#160;Oct&#160;16 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
 |Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
-|Round 1 | Fri,&#160;Oct&#160;23 | 7:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
+|___Round 1___ | ___Fri,&#160;Oct&#160;23___ | ___7:00&#160;PM___ | KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
 |Round 2 | Sat,&#160;Oct&#160;24 | 9:30&#160;AM | KGS - Vermont Go Club room [TODO: INSERT ROUND 2 LINK HERE](/) |
 |Round 3 | Sat,&#160;Oct&#160;24 | 1:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 3 LINK HERE](/) |
 |Round 4 | Sat,&#160;Oct&#160;24 | 3:30&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 4 LINK HERE](/) |
