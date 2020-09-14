@@ -16,7 +16,7 @@ __Pre-registration required by Friday, October 16th, 2020!__
 ## Where
 The Vermont Go Club room on the KGS Go Server [https://www.gokgs.com/](https://www.gokgs.com/)
 
-To navigate to the room, goto:  __Rooms --> Room List --> Clubs --> Vermont Go Club__
+__Rooms --> Room List --> Clubs --> Vermont Go Club__
 
 ## Schedule
 
