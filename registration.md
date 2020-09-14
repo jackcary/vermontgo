@@ -9,6 +9,8 @@ __Pre-registration required by Friday, October 16th, 2020!__
   - KGS username
   - Cell phone number
 
+- Tournament limited to the first 24 players!
+
 
 ## Registered Players
 
@@ -34,3 +36,8 @@ __Pre-registration required by Friday, October 16th, 2020!__
 | 18     |             |             |      |      |
 | 19     |             |             |      |      |
 | 20     |             |             |      |      |
+| 21     |             |             |      |      |
+| 22     |             |             |      |      |
+| 23     |             |             |      |      |
+| 24     |             |             |      |      |
+
