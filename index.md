@@ -38,3 +38,5 @@ The KGS Go Server [https://www.gokgs.com/](https://www.gokgs.com/)
 - Games are not rated or ranked
 
 Pairings will be emailed before each round and posted on the [Pairings and Results]({{site.baseurl}}/pairings) page
+
+Tournament limited to the first 24 players who [register]({{site.baseurl}}/registration).
