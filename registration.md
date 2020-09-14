@@ -11,6 +11,9 @@ __Pre-registration required by Friday, October 16th, 2020!__
 
 - Tournament limited to the first 24 players!
 
+All games will be played in the Vermont Go Club room on the KGS Go Server https://www.gokgs.com/
+
+__Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 ## Registered Players
 
