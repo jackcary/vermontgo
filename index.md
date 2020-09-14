@@ -16,7 +16,7 @@ __Pre-registration required by Friday, October 16th, 2020!__
 ## Where
 The Vermont Go Club room on the KGS Go Server [https://www.gokgs.com/](https://www.gokgs.com/)
 
-To navigate to the room:  Rooms-->Room List-->Clubs-->Vermont Go Club
+To navigate to the room, goto:  __Rooms --> Room List --> Clubs --> Vermont Go Club__
 
 ## Schedule
 
@@ -24,7 +24,7 @@ To navigate to the room:  Rooms-->Room List-->Clubs-->Vermont Go Club
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Fri,&#160;Oct&#160;16 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
 |Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](https://zoom.us/) |
-|___Round 1___ | ___Fri,&#160;Oct&#160;23___ | ___7:00&#160;PM___ | KGS - Vermont Go Club room [Round 1]({{site.baseurl}}/pairings#round-1) |
+|__Round 1__ | __Fri,&#160;Oct&#160;23__ | __7:00&#160;PM__ | KGS - Vermont Go Club room [Round 1]({{site.baseurl}}/pairings#round-1) |
 |Round 2 | Sat,&#160;Oct&#160;24 | 9:30&#160;AM | KGS - Vermont Go Club room [Round 2]({{site.baseurl}}/pairings#round-2) |
 |Round 3 | Sat,&#160;Oct&#160;24 | 1:00&#160;PM | KGS - Vermont Go Club room [Round 3]({{site.baseurl}}/pairings#round-3) |
 |Round 4 | Sat,&#160;Oct&#160;24 | 3:30&#160;PM | KGS - Vermont Go Club room [Round 4]({{site.baseurl}}/pairings#round-4) |
