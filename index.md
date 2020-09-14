@@ -14,7 +14,7 @@ __Pre-registration required by Friday, October 16th, 2020!__
 [Click here for registration instructions]({{site.baseurl}}/registration)
 
 ## Where
-The KGS Go Server https://www.gokgs.com/
+The KGS Go Server [https://www.gokgs.com/](https://www.gokgs.com/)
 
 ## Schedule
 
