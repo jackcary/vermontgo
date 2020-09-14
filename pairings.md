@@ -21,6 +21,8 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
 
 ## Round 2
 ### Sat, Oct 24	@ 9:30 AM
@@ -33,6 +35,8 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |  
+|										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
@@ -53,6 +57,8 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
 
 ## Round 4
 ### Sat, Oct 24	@ 3:30 PM
@@ -65,6 +71,8 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |  
+|										|										|										|										|										|                   |
+|										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
 |										|										|										|										|										|                   |
