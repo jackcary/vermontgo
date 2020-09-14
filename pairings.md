@@ -2,7 +2,7 @@
 
 All games will be played in the Vermont Go Club room on the KGS Go Server https://www.gokgs.com/
 
-Rooms –> Room List –> Clubs –> Vermont Go Club__
+__Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 
 
