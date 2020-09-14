@@ -10,6 +10,9 @@ __The Vermont Fall Go Tournament - 2020 Online Edition!__
 ## When
 October 23rd-24th, 2020
 
+__Pre-registration required by Friday, October 16th, 2020!__
+[Click here for registration instructions]({{site.baseurl}}/registration)
+
 ## Where
 The KGS Go Server https://www.gokgs.com/
 
@@ -28,13 +31,10 @@ The KGS Go Server https://www.gokgs.com/
 
 ## Details
 - 4 rounds
-- Games are not rated or ranked
 - Time settings: 40m+5x30s
 - Ruleset: Japanese rules
 - 6.5 komi for even games
 - 0.5 komi for handicap games
-
-__Pre-registration required by Friday, October 16th, 2020!__
-[Click here for registration instructions]({{site.baseurl}}/registration)
+- Games are not rated or ranked
 
 Pairings will be emailed before each round and posted on the [Pairings and Results]({{site.baseurl}}/pairings) page
