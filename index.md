@@ -18,7 +18,7 @@ The KGS Go Server https://www.gokgs.com/
 | Event | Date | Time | Links |
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Fri,&#160;Oct&#160;16 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
-|Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15:00&#160;PM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
+|Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](/) |
 |Round 1 | Fri,&#160;Oct&#160;23 | 7:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 1 LINK HERE](/) |
 |Round 2 | Sat,&#160;Oct&#160;24 | 9:00&#160;AM | KGS - Vermont Go Club room [TODO: INSERT ROUND 2 LINK HERE](/) |
 |Round 3 | Sat,&#160;Oct&#160;24 | 1:00&#160;PM | KGS - Vermont Go Club room [TODO: INSERT ROUND 3 LINK HERE](/) |
@@ -28,7 +28,7 @@ The KGS Go Server https://www.gokgs.com/
 
 ## Details
 - 4 rounds
-- AGA rated (TBD)
+- Games are not rated or ranked
 - Time settings: 40m+5x30s
 - Ruleset: Japanese rules
 - 6.5 komi for even games
