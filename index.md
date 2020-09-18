@@ -23,12 +23,12 @@ __Rooms --> Room List --> Clubs --> Vermont Go Club__
 | Event | Date | Time | Links |
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Fri,&#160;Oct&#160;16 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
-|Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](https://zoom.us/) |
+|Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [Check back soon for zoom link](https://zoom.us/) |
 |__Round 1__ | __Fri,&#160;Oct&#160;23__ | __7:00&#160;PM__ | KGS - Vermont Go Club room [Round 1]({{site.baseurl}}/pairings#round-1) |
 |Round 2 | Sat,&#160;Oct&#160;24 | 9:30&#160;AM | KGS - Vermont Go Club room [Round 2]({{site.baseurl}}/pairings#round-2) |
 |Round 3 | Sat,&#160;Oct&#160;24 | 1:00&#160;PM | KGS - Vermont Go Club room [Round 3]({{site.baseurl}}/pairings#round-3) |
 |Round 4 | Sat,&#160;Oct&#160;24 | 3:30&#160;PM | KGS - Vermont Go Club room [Round 4]({{site.baseurl}}/pairings#round-4) |
-|Closing Ceremony | Sat,&#160;Oct&#160;24 | 6:00&#160;PM| Zoom - Video Call [TODO: INSERT ZOOM LINK HERE](https://zoom.us/) |
+|Closing Ceremony | Sat,&#160;Oct&#160;24 | 6:00&#160;PM| Zoom - Video Call [Check back soon for zoom link](https://zoom.us/) |
 
 
 ## Details
