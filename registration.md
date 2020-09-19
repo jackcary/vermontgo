@@ -21,7 +21,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | :---: | :-------- | :---------: | :--- | :--- |
 | 1     | Peter Schumer    | 2k          | Middlebury, Vermont | tenuki10 |
 | 2     | Jack Cary    | 4k         |  Burlington, Vermont    | jackcary    | 
-| 3     | 				    | 		        |      |      |
+| 3     | Rich Chalmers	| 1d        |  Williamstown, Vermont    | shauke     |
 | 4     | 					  |          		|      |      |
 | 5     |             |             |      |      |
 | 6     |             |             |      |      |
