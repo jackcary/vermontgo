@@ -17,12 +17,12 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 ## Registered Players
 
-| #     | Name        | Rank        | Home town | KGS username |
-| :---: | :-------- | :---------: | :--- | :--- |
-| 1     | Peter Schumer    | 2k          | Middlebury, Vermont | tenuki10 |
-| 2     | Jack Cary    | 4k         |  Burlington, Vermont    | jackcary    | 
-| 3     | Rich Chalmers	| 1d        |  Williamstown, Vermont    | shauke     |
-| 4     | Takuma Sminkey | 1k       |  Okinawa, Japan    | takuma63     |
+| #     | Name             | Entry Rank  | Home town                | KGS username |
+| :---: | :--------        | :---------: | :---                     | :--- |
+| 1     | Peter Schumer    | 2k          | Middlebury, Vermont      | tenuki10 |
+| 2     | Jack Cary        | 3k          | Burlington, Vermont      | jackcary    | 
+| 3     | Rich Chalmers	   | 1d          | Williamstown, Vermont    | shauke     |
+| 4     | Takuma Sminkey   | 1k          | Okinawa, Japan           | takuma63     |
 | 5     |             |             |      |      |
 | 6     |             |             |      |      |
 | 7     |             |             |      |      |
