@@ -20,7 +20,7 @@ __Rooms --> Room List --> Clubs --> Vermont Go Club__
 
 ## Schedule
 
-| Event | Date | Time | Links |
+| Event | Date | Time (EDT) | Links |
 | :--- | :--- | :--- | :--- |
 |Registration Deadline | Fri,&#160;Oct&#160;16 | 11:59&#160;PM| Email Pete Schumer [schumer@middlebury.edu](mailto:schumer@middlebury.edu) |
 |Opening Ceremony | Fri,&#160;Oct&#160;23 | 6:15&#160;PM | Zoom - Video Call [Check back soon for zoom link](https://zoom.us/) |
