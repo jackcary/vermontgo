@@ -5,7 +5,7 @@ title: Information
 # Information
 
 ## What
-__The Vermont Fall Go Tournament - 2020 Online Edition!__
+__Stay Home Vermont Go Tournament!__
 
 ## When
 October 23rd-24th, 2020
