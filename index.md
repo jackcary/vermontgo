@@ -42,3 +42,5 @@ __Rooms --> Room List --> Clubs --> Vermont Go Club__
 Pairings will be emailed before each round and posted on the [Pairings and Results]({{site.baseurl}}/pairings) page
 
 Tournament limited to the first 24 players who [register]({{site.baseurl}}/registration).
+
+![Go Board](/assets/img/go.jpeg)
