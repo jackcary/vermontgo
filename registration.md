@@ -25,7 +25,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 4     | Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
 | 5     | Bill Arrand                      | 2k          | Vermont                  | selasi   |
 | 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
-| 7     | ชานน กือเจริญ (Charnon Kuecharoen) | 2d          | Roi Et, Thailand         | Roietman     |
+| 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
 | 8     |             |             |      |      |
 | 9     |             |             |      |      |
 | 10    |             |             |      |      |
