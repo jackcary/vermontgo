@@ -23,7 +23,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 2     | Jack Cary                        | 3k          | Burlington, Vermont      | jackcary    | 
 | 3     | Rich Chalmers	                   | 1d          | Williamstown, Vermont    | shauke     |
 | 4     | Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
-| 5     | Bill Arrand                      | 2k          | Vermont                  | selasi   |
+| 5     | Bill Arrand                      | 2k          | Worcester, Vermont       | selasi   |
 | 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
 | 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
 | 8     |             |             |      |      |
