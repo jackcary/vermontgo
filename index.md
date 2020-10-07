@@ -1,5 +1,5 @@
 ---
-title: Information
+title: Stay Home Vermont Go Tournament
 ---
 
 # Information
