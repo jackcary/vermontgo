@@ -2,8 +2,6 @@
 
 Player Game Results on KGS
 
-[I'm an inline-style link](https://www.google.com)
-
 [1 - Peter Schumer (tenuki10)](https://jackcary.github.io/vermontgo/admin#1---peter-schumer-tenuki10)
 [2 - Jack Cary (jackcary)](https://jackcary.github.io/admin#2---jack-cary-jackcary)
 [3 - Rich Chalmers (shauke)](https://jackcary.github.io/vermontgo/admin#3---rich-chalmers-shauke)
