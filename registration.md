@@ -27,7 +27,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
 | 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
 | 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
-| 9     |             |             |      |      |
+| 9     | Caleb Lesher                     | 7k?         | Vermont                  | OhNo789      |
 | 10    |             |             |      |      |
 | 11     |             |             |      |      |
 | 12     |             |             |      |      |
