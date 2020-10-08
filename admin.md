@@ -3,13 +3,13 @@
 Player Game Results on KGS
 
 [1 - Peter Schumer (tenuki10)](https://jackcary.github.io/vermontgo/admin#1---peter-schumer-tenuki10)
-[2 - Jack Cary (jackcary)](https://jackcary.github.io/admin#2---jack-cary-jackcary)
+[2 - Jack Cary (jackcary)](https://jackcary.github.io/vermontgo/admin#2---jack-cary-jackcary)
 [3 - Rich Chalmers (shauke)](https://jackcary.github.io/vermontgo/admin#3---rich-chalmers-shauke)
 [4 - Takuma Sminkey (takuma63)](https://jackcary.github.io/vermontgo/admin#4---takuma-sminkey-takuma63)
 [5 - Bill Arrand (selasi)](https://jackcary.github.io/vermontgo/admin#5---bill-arrand-selasi)
 [6 - Yuxin Xiao (xiaoyuxing)](https://jackcary.github.io/vermontgo/admin#6---yuxin-xiao-xiaoyuxing)
 [7 - ชานน กือเจริญ Charnon Kuecharoen (Roietman)](https://jackcary.github.io/vermontgo/admin#7---ชานน-กือเจริญ-charnon-kuecharoen-roietman)
-[8 - Quan Wei (wei2020)](https://jackcary.github.io/vermontgo/admin#---quan-wei-wei2020)
+[8 - Quan Wei (wei2020)](https://jackcary.github.io/vermontgo/admin#8---quan-wei-wei2020)
 [9 - Caleb Lesher (OhNo789)](https://jackcary.github.io/vermontgo/admin#9---caleb-lesher-ohno789)
 
 ## 1 - Peter Schumer (tenuki10)
