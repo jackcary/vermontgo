@@ -26,7 +26,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 5     | Bill Arrand                      | 2k          | Worcester, Vermont       | selasi   |
 | 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
 | 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
-| 8     |             |             |      |      |
+| 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  |              |
 | 9     |             |             |      |      |
 | 10    |             |             |      |      |
 | 11     |             |             |      |      |
