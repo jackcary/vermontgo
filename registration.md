@@ -29,7 +29,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
 | 9     | Caleb Lesher                     | 7k?         | Montpelier, Vermont      | OhNo789      |
 | 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | ?            |
-| 11    | John Hartman                     | 5k          | Saint Albans, Vermont    | ?            |
+| 11    | John Hartman                     | 5k          | Saint Albans, Vermont    | mcwilli      |
 | 12    |             |             |      |      |
 | 13    |             |             |      |      |
 | 14    |             |             |      |      |
