@@ -20,9 +20,9 @@ Player Game Results on KGS
 
 [9 - Caleb Lesher (OhNo789)](https://jackcary.github.io/vermontgo/admin#9---caleb-lesher-ohno789)
 
-[10 - Dan Deneen ()](https://jackcary.github.io/vermontgo/admin#10---dan-deneen)
+[10 - Dan Deneen ()](https://jackcary.github.io/vermontgo/admin#10---dan-deneen-)
 
-[11 - John Hartman (mcwilli)](https://jackcary.github.io/vermontgo/admin#911---john-hartman-mcwilli)
+[11 - John Hartman (mcwilli)](https://jackcary.github.io/vermontgo/admin#11---john-hartman-mcwilli)
 
 
 ## 1 - Peter Schumer (tenuki10)
