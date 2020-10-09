@@ -20,6 +20,11 @@ Player Game Results on KGS
 
 [9 - Caleb Lesher (OhNo789)](https://jackcary.github.io/vermontgo/admin#9---caleb-lesher-ohno789)
 
+[10 - Dan Deneen ()](https://jackcary.github.io/vermontgo/admin#10---dan-deneen)
+
+[11 - John Hartman (mcwilli)](https://jackcary.github.io/vermontgo/admin#911---john-hartman-mcwilli)
+
+
 ## 1 - Peter Schumer (tenuki10)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=tenuki10" height="200" width="100%"></iframe>
 
@@ -45,4 +50,10 @@ Player Game Results on KGS
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=wei2020" height="200" width="100%"></iframe>
 
 ## 9 - Caleb Lesher (OhNo789)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=OhNo789" height="200" width="100%"></iframe>
+
+## 10 - Dan Deneen ()
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=" height="200" width="100%"></iframe>
+
+## 11 - John Hartman (mcwilli)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=OhNo789" height="200" width="100%"></iframe>
