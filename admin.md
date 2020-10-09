@@ -56,4 +56,4 @@ Player Game Results on KGS
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=" height="200" width="100%"></iframe>
 
 ## 11 - John Hartman (mcwilli)
-<iframe src="https://www.gokgs.com/gameArchives.jsp?user=OhNo789" height="200" width="100%"></iframe>
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=mcwilli" height="200" width="100%"></iframe>
