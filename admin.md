@@ -24,6 +24,7 @@ Player Game Results on KGS
 
 [11 - John Hartman (mcwilli)](https://jackcary.github.io/vermontgo/admin#11---john-hartman-mcwilli)
 
+[12 - Karen Lanzetta (NannyOgg)](https://jackcary.github.io/vermontgo/admin#12---karen-lanzetta-nannyogg)
 
 ## 1 - Peter Schumer (tenuki10)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=tenuki10" height="200" width="100%"></iframe>
@@ -57,3 +58,6 @@ Player Game Results on KGS
 
 ## 11 - John Hartman (mcwilli)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=mcwilli" height="200" width="100%"></iframe>
+
+## 12 - Karen Lanzetta (NannyOgg)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=NannyOgg" height="200" width="100%"></iframe>
