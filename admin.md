@@ -26,6 +26,9 @@ Player Game Results on KGS
 
 [12 - Karen Lanzetta (NannyOgg)](https://jackcary.github.io/vermontgo/admin#12---karen-lanzetta-nannyogg)
 
+[13 - Ted Vogt (eaglepeak)](https://jackcary.github.io/vermontgo/admin#13---ted-vogt-eaglepeak)
+
+
 ## 1 - Peter Schumer (tenuki10)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=tenuki10" height="200" width="100%"></iframe>
 
@@ -61,3 +64,7 @@ Player Game Results on KGS
 
 ## 12 - Karen Lanzetta (NannyOgg)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=NannyOgg" height="200" width="100%"></iframe>
+
+## 13 - Ted Vogt (eaglepeak)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=eaglepeak" height="200" width="100%"></iframe>
+
