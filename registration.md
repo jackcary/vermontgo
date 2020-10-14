@@ -31,7 +31,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | ?            |
 | 11    | John Hartman                     | 5k          | Saint Albans, Vermont    | mcwilli      |
 | 12    | Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
-| 13    | Ted Vogt                         | ?           | West Brookfield, Vermont | ?            |
+| 13    | Ted Vogt                         | ?           | West Brookfield, Vermont | eaglepeak    |
 | 14    |             |             |      |      |
 | 15    |             |             |      |      |
 | 16    |             |             |      |      |
