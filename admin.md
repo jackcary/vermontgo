@@ -28,6 +28,8 @@ Player Game Results on KGS
 
 [13 - Ted Vogt (eaglepeak)](https://jackcary.github.io/vermontgo/admin#13---ted-vogt-eaglepeak)
 
+[14 - Rujun Ding (minicrab)](https://jackcary.github.io/vermontgo/admin#14---rujun-ding-minicrab)
+
 
 ## 1 - Peter Schumer (tenuki10)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=tenuki10" height="200" width="100%"></iframe>
@@ -67,4 +69,8 @@ Player Game Results on KGS
 
 ## 13 - Ted Vogt (eaglepeak)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=eaglepeak" height="200" width="100%"></iframe>
+
+## 14 - Rujun Ding (minicrab)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=minicrab" height="200" width="100%"></iframe>
+
 
