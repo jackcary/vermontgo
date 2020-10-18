@@ -20,7 +20,7 @@ Player Game Results on KGS
 
 [9 - Caleb Lesher (OhNo789)](https://jackcary.github.io/vermontgo/admin#9---caleb-lesher-ohno789)
 
-[10 - Dan Deneen ()](https://jackcary.github.io/vermontgo/admin#10---dan-deneen-)
+[10 - Dan Deneen (dxhermit)](https://jackcary.github.io/vermontgo/admin#10---dan-deneen-dxhermit)
 
 [11 - John Hartman (mcwilli)](https://jackcary.github.io/vermontgo/admin#11---john-hartman-mcwilli)
 
@@ -58,8 +58,8 @@ Player Game Results on KGS
 ## 9 - Caleb Lesher (OhNo789)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=OhNo789" height="200" width="100%"></iframe>
 
-## 10 - Dan Deneen ()
-<iframe src="https://www.gokgs.com/gameArchives.jsp?user=" height="200" width="100%"></iframe>
+## 10 - Dan Deneen (dxhermit)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=dxhermit" height="200" width="100%"></iframe>
 
 ## 11 - John Hartman (mcwilli)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=mcwilli" height="200" width="100%"></iframe>
