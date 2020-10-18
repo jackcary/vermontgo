@@ -28,7 +28,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
 | 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
 | 9     | Caleb Lesher                     | 5k          | Montpelier, Vermont      | OhNo789      |
-| 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | ?            |
+| 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | dxhermit     |
 | 11    | John Hartman                     | 5k          | Saint Albans, Vermont    | mcwilli      |
 | 12    | Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
 | 13    | Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
