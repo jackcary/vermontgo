@@ -33,7 +33,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 12    | Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
 | 13    | Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
 | 14    | Rujun Ding                       | 5d          | Shanghai, China          | minicrab     |
-| 15    |             |             |      |      |
+| 15    | Aaron Mitton                     | 12k         | Williston, Vermont       | amittonvt    |
 | 16    |             |             |      |      |
 | 17    |             |             |      |      |
 | 18    |             |             |      |      |
