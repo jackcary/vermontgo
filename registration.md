@@ -34,7 +34,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 13    | Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
 | 14    | Rujun Ding                       | 5d          | Shanghai, China          | minicrab     |
 | 15    | Aaron Mitton                     | 12k         | Williston, Vermont       | amittonvt    |
-| 16    |             |             |      |      |
+| 16    | Andrew Richter                   | ?           | ?                        | ?            |
 | 17    |             |             |      |      |
 | 18    |             |             |      |      |
 | 19    |             |             |      |      |
