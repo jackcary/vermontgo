@@ -32,6 +32,8 @@ Player Game Results on KGS
 
 [15 - Aaron Mitton (amittonvt)](https://jackcary.github.io/vermontgo/admin#15---aaron-mitton-amittonvt)
 
+[16 - Andrew Richter (Andrew256)](https://jackcary.github.io/vermontgo/admin#16---andrew-richter-andrew256)
+
 
 ## 1 - Peter Schumer (tenuki10)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=tenuki10" height="200" width="100%"></iframe>
@@ -78,4 +80,6 @@ Player Game Results on KGS
 ## 15 - Aaron Mitton (amittonvt)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=amittonvt" height="200" width="100%"></iframe>
 
+## 16 - Andrew Richter (Andrew256)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=Andrew256" height="200" width="100%"></iframe>
 
