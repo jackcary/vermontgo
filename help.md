@@ -1,3 +1,3 @@
 # Help
 
-Check back for information later today!
+[How to use Shin KGS]({{site.baseurl}}/shinkgs)
