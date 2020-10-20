@@ -14,7 +14,7 @@ Enter your KGS username and password and click log in.
 
 ![](/assets/img/shin2_login.png)
 
-# How to join the Vermont Go Club Room
+## How to join the Vermont Go Club Room
 
 Once you are logged in to Shin KGS, you can get to rooms via the "Chat" menu option from the navigation bar at the top of the website.
 
@@ -39,6 +39,34 @@ Once you are in the Vermont Go Club Room, you can type in the field at the botto
 ![](/assets/img/shin6_vermontroom.png)
 
 ![](/assets/img/shin7_vermontroomchat.png)
+
+## Setting up your game in the Vermont Go Club Room
+
+To create a game challenge.
+
+Click the "Play" menu option from the navigation bar at the top of the page.
+
+Then click the "Create Challenge" button at the top right of the page.
+
+![](/assets/img/shin8_play.png)
+
+In the Create Challenge window:
+
+1. Set the room to Vermont Go Club
+2. Write your opponent's name in the game description field
+3. Select Byo-Yomi Time
+4. Select Japanese Rules
+5. Set the main time to 40 minutes
+6. Set the overtime to 30 seconds
+7. Set the periods to 5
+8. Make sure the board is 19x19
+
+Now click "Create Challenge"
+
+![](/assets/img/shin91_challenge.png)
+
+
+
 
 
 
