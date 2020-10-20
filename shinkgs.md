@@ -42,8 +42,6 @@ Once you are in the Vermont Go Club Room, you can type in the field at the botto
 
 ## Setting up your game in the Vermont Go Club Room
 
-To create a game challenge.
-
 Click the "Play" menu option from the navigation bar at the top of the page.
 
 Then click the "Create Challenge" button at the top right of the page.
@@ -66,6 +64,40 @@ In the Create Challenge window:
 Now click "Create Challenge"
 
 ![](/assets/img/shin91_challenge.png)
+
+![](/assets/img/shin92_challengesettings.png)
+
+
+Your opponent will now be able to see your game challenge proposal in the Vermont Go Club Room chat.
+
+![](/assets/img/shin94_challengelistedinroom.png)
+
+## Setting Handicap and Komi
+
+For this tournament, game setup and configuration is a shared responsibility of both players.  The tournament organizers will tell you the parings and handicap, but they can not setup the game for you.
+
+1. The White (stone) player is responsible for creating the Game Challenge
+
+2. The Black (stone) plauer is responsible for finding the game challengs, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Game Challenge window.
+
+3. The White (stone) player is responsible for checking the settings before accepting and begining the game.
+
+## If the game starts with the wrong settings
+
+Simply resign, close the game and start again with the instructions above until the game settings are correct.  Free games do not impact your rank or rating.
+
+## Marking dead stones at the end of the game
+
+For this tournament, determining which stones are alive/dead at the end of the game is a shared responsibility of both players. If there is a dispute (i.e., "is it seki?", try to agree on an answer before you contact the tournament organizers.  The orgainizers have the final say on all game results.
+
+## Remember to have fun and enjoy your games!
+
+This is a fun event for friendly Go competition. We hope that you enjoy your games. We expect fair play and good sportsmanship. Please take the time to thank your opponent after each game.
+
+![](/assets/img/shin95_play.png)
+
+
+
 
 
 
