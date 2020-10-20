@@ -65,6 +65,7 @@
 - Starting a new game <https://www.gokgs.com/help/newGameWin.html>. **Be sure you understand the nigiri and stone color buttons and how to set handicap before the tournament begins**
 - Troubleshooting <https://www.gokgs.com/help/faq/troubleshooting.html>
 - We highly recommend that you setup and play a few games in the Vermont Go Club Room before Friday if you are new to KGS!
+- You can also post your questions in the KGS Help Room, there are plenty of KGS admins and players that are happy to help out!
 
 ## Where is the Vermont Go Club Room on KGS?
 - Using the Cgoban client: Rooms –> Room List –> Clubs –> Vermont Go Club
