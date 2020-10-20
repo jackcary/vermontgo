@@ -33,7 +33,7 @@
 
 - The White (stone) player is responsible for checking the settings before accepting and beginning the game.
 
-## What are settings for the games?
+## What are the settings for the games?
 - Set the room to Vermont Go Club if you are not already in the room
 - Write your opponent’s name in the game description field
 - Select “Free Game”
@@ -70,9 +70,10 @@
 - [How to use Shin KGS]({{site.baseurl}}/shinkgs)
 
 ## I'm using KGS with the Cgoban Client and when I click nothing happens (or it is really slow)
-- Turn/stop all other programs on your computer. Maybe reboot too.
+- Turn off or close all other programs on your computer. Maybe reboot too.
 - Make sure you are using the latest verison of the KGS client.
-- Check your Internet or WiFi connection.
+- Scan you computer for viruses long before the tournament.
+- Check your Internet or WiFi connection speed/service.
 - If all else fails, try using the browser-based alternative Shin KGS.
 - [How to use Shin KGS]({{site.baseurl}}/shinkgs)
 
@@ -83,7 +84,7 @@
 - Please be patient as some players may have technical or connection difficulties depending on Internet service quality.  If the time runs out on the game, you win by default.
 
 ## Our game started with the wrong settings/color/handicap, now what?
-- Communicated with your opponent via chat that the settings are wrong.  Resign the game and start/setup a new game with the correct settings.  Please try to do this quickly so that the round can finish on time.
+- Communicate with your opponent via in game chat that the settings are wrong.  Resign the game and start/setup a new game with the correct settings.  Please try to do this quickly so that the rounds can finish on time.
 
 ## How do I finish the game to determine the result?
 - The game ends when both players pass or if one player resigns or runs out of time.  For this tournament, determining and marking which stones are alive/dead at the end of the game is both players' shared responsibility. If there is a dispute (i.e., "is it seki?"), try to agree on an answer before you contact the tournament organizers. The organizers have the final say on all game results.
