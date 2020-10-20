@@ -14,8 +14,44 @@
 - 802-989-4481 (Pete)
 - 802-540-5224 (Jack)
 
+## Where are the pairings for each round?
+- Pairings will be emailed to all participants before each round.
+- Pairings will also be listed on this webiste here [Pairings and Results]({{site.baseurl}}/pairings)
+
+## Where is the tournament schedule?
+- Schedule can be found here [Information]({{site.baseurl}}/#information)
+
+## Where is the list of players?
+- The list of registered players can be found here [Registration]({{site.baseurl}}/registration)
+
+## Who sets up the game for each round?
+- For this tournament, game setup and configuration is a shared responsibility of both players. The tournament organizers will tell you the parings and handicaps, but they can not set up the game for you.
+
+- The White (stone) player is responsible for creating the Game Challenge
+
+- The Black (stone) player is accountable for finding the game challenge, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Game Challenge window.
+
+- The White (stone) player is responsible for checking the settings before accepting and beginning the game.
+
+## What rank do I play at?
+- You will play at your entry rank, not your AGA or KGS rank.  Handicaps for pairings will be set by organizers and communicated before each round.
+
+## Can I turn off my KGS rank?
+- Yes, highly recommended for the duration of the tournament.  Go to your KGS profile and uncheck the "Rank" checkbox.
+
+## Are games rated? Can I make them private?
+- No, games are not rated, make sure to select "Free" in the Game Challenge settings.
+- No, the games cannot be set to private, please select "Public" in the Game Challenge settings.
+
 ## How do I use KGS Cgoban client?
-- Information in progress
+- Video tutorial [](https://www.youtube.com/watch?v=_GcMKFDQ468)
+- Information about the main window [](https://www.gokgs.com/help/main.html#introduction)
+- Starting a new game [](https://www.gokgs.com/help/newGameWin.html). **Be sure you understand the nigiri and stone color buttons and how to set handicap before the tournament begins**
+- We highly recommend that you setup and play a few games in the Vermont Go Club Room before Friday if you are new to KGS!
+
+## Where is the Vermont Go Club Room on KGS?
+- Using the Cgoban client: Rooms –> Room List –> Clubs –> Vermont Go Club
+- Using Shin KGS: Click the "Chat" menu at top of page) –> Scroll down to "Join Room" –> Click Join Room –> Vermont Go Club
 
 ## What if the KGS Cgoban application is not working on my computer?
 - Try using the browser-based alternative Shin KGS.
