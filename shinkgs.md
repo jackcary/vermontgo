@@ -54,12 +54,14 @@ In the Create Challenge window:
 
 1. Set the room to Vermont Go Club
 2. Write your opponent's name in the game description field
-3. Select Byo-Yomi Time
-4. Select Japanese Rules
-5. Set the main time to 40 minutes
-6. Set the overtime to 30 seconds
-7. Set the periods to 5
-8. Make sure the board is 19x19
+3. Select "Free Game"
+4. Select "Public"
+5. Select "Byo-Yomi Time"
+6. Select "Japanese Rules"
+7. Set the main time to "40:00" minutes
+8. Set the overtime to "30" seconds
+9. Set the periods to "5"
+10. Make sure the board is "19x19"
 
 Now click "Create Challenge"
 
