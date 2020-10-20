@@ -33,6 +33,18 @@
 
 - The White (stone) player is responsible for checking the settings before accepting and beginning the game.
 
+## What are settings for the games?
+- Set the room to Vermont Go Club if you are not already in the room
+- Write your opponent’s name in the game description field
+- Select “Free Game”
+- Select “Public”
+- Select “Byo-Yomi Time”
+- Select “Japanese Rules”
+- Set the main time to “40:00” minutes
+- Set the overtime to “30” seconds
+- Set the periods to “5”
+- Make sure the board is “19x19”
+
 ## What rank do I play at?
 - You will play at your entry rank, not your AGA or KGS rank.  Handicaps for pairings will be set by organizers and communicated before each round.
 
@@ -44,9 +56,9 @@
 - No, the games cannot be set to private, please select "Public" in the Game Challenge settings.
 
 ## How do I use KGS Cgoban client?
-- Video tutorial [](https://www.youtube.com/watch?v=_GcMKFDQ468)
-- Information about the main window [](https://www.gokgs.com/help/main.html#introduction)
-- Starting a new game [](https://www.gokgs.com/help/newGameWin.html). **Be sure you understand the nigiri and stone color buttons and how to set handicap before the tournament begins**
+- Video tutorial <https://www.youtube.com/watch?v=_GcMKFDQ468>
+- Information about the main window <https://www.gokgs.com/help/main.html#introduction>
+- Starting a new game <https://www.gokgs.com/help/newGameWin.html>. **Be sure you understand the nigiri and stone color buttons and how to set handicap before the tournament begins**
 - We highly recommend that you setup and play a few games in the Vermont Go Club Room before Friday if you are new to KGS!
 
 ## Where is the Vermont Go Club Room on KGS?
