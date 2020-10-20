@@ -6,7 +6,7 @@ Shin KGS is a browser-based user interface for the KGS Go Server.  It's an alter
 
 ## Log into Shin KGS
 
-On your computer or device, open a web browser (e.g. Edge, Chrome, Safari) and browse to https://shin.gokgs.com/
+On your computer or device, open a web browser (e.g. Edge, Chrome, Safari, Firefox) and browse to https://shin.gokgs.com/
 
 ![](/assets/img/shin1.png)
 
@@ -30,5 +30,20 @@ Once you click join room, you can narrow the search by typing "Vermont" in the s
 
 ![](/assets/img/shin5_searchroom.png)
 
-Click on the Vermont Go Club Room.
+Click on the Vermont Go Club Room to join.
+
+## How to Chat in the Vermont Go Club Room
+
+Once you are in the Vermont Go Club Room, you can type in the field at the bottom of the page.  Chats here will be seen by all players in the room.  This is the group chat for the room.
+
+![](/assets/img/shin6_vermontroom.png)
+
+![](/assets/img/shin7_vermontroomchat.png)
+
+
+
+
+
+
+
 
