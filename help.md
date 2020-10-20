@@ -14,6 +14,9 @@
 - 802-989-4481 (Pete)
 - 802-540-5224 (Jack)
 
+## Where is the link to the zoom meeting?
+- Zoom meeting link and password will be emailed to participants by Friday October 23rd.
+
 ## Where are the pairings for each round?
 - Pairings will be emailed to all participants before each round.
 - Pairings will also be listed on this webiste here [Pairings and Results]({{site.baseurl}}/pairings)
