@@ -105,10 +105,10 @@
 - This is a friendly competition, don't take it too seriously! Focus on playing your best moves and finding the beauty in the game.  After the tournament, it's always a great idea to review your games with other players and learn something new!
 
 ## Is that Othello?
-No.
+- No.
 
 ## I have a question that is not on this list!
-No problem, contact the organizers before the tournament begins, and we will add your question and answer here!
+- No problem, contact the organizers before the tournament begins, and we will add your question and answer here!
 
 
 
