@@ -12,20 +12,20 @@
 
 **Cell phone or text**
 - 802-989-4481 (Pete)
-- 802-540-5224 (Jack)
+- 802-540-5225 (Jack)
 
 ## Where is the link to the zoom meeting?
 - Zoom meeting link and password will be emailed to participants by Friday October 23rd.
 
 ## Where are the pairings for each round?
 - Pairings will be emailed to all participants before each round.
-- Pairings will also be listed on this webiste here [Pairings and Results]({{site.baseurl}}/pairings)
+- Pairings will also be listed on this webiste here: [Pairings and Results]({{site.baseurl}}/pairings)
 
 ## Where is the tournament schedule?
-- Schedule can be found here [Information]({{site.baseurl}}/#information)
+- Schedule can be found here: [Information]({{site.baseurl}}/#information)
 
 ## Where is the list of players?
-- The list of registered players can be found here [Registration]({{site.baseurl}}/registration)
+- The list of registered players can be found here: [Registration]({{site.baseurl}}/registration)
 
 ## Who sets up the game for each round?
 - For this tournament, game setup and configuration is a shared responsibility of both players. The tournament organizers will tell you the parings and handicaps, but they can not set up the game for you.
@@ -52,7 +52,7 @@
 - You will play at your entry rank, not your AGA or KGS rank.  Handicaps for pairings will be set by organizers and communicated before each round.
 
 ## Can I turn off my KGS rank?
-- Yes, highly recommended for the duration of the tournament.  Go to your KGS profile and uncheck the "Rank" checkbox.
+- Yes, highly recommended for the duration of the tournament.  Go to your KGS user settings and uncheck the "Rank" checkbox.
 
 ## Are games rated? Can I make them private?
 - No, games are not rated, make sure to select "Free" in the Game Challenge settings.
@@ -96,7 +96,7 @@
 - We expect fair play and good sportsmanship.  If your opponent is rude or overly distracting, let the organizers know, and we can decide if the action merits a default result for your opponent.
 
 ## Can I use AI, game analysis, books, joseki dictionaries, or ask other players about my game in progress?
-- No.  This event is a fun, friendly, and relaxed event, and we highly doubt this will be an issue. Organizers have the final say on all tournament game results.
+- This event is a fun, friendly, and relaxed event, and we highly doubt this will be an issue. Please play without the aid of software, reference materials, or other players. Organizers have the final say on all tournament game results.
 
 ## I'm not having fun; what do I do?
 - This is a friendly competition, don't take it too seriously! Focus on playing your best moves and finding the beauty in the game.  After the tournament, it's always a great idea to review your games with other players and learn something new!
