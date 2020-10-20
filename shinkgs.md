@@ -6,7 +6,7 @@ Shin KGS is a browser-based user interface for the KGS Go Server.  It's an alter
 
 ## Log into Shin KGS
 
-On your computer or device, open a web browser (e.g. Edge, Chrome, Safari, Firefox) and browse to https://shin.gokgs.com/
+On your computer or device, open a web browser (e.g., Edge, Chrome, Safari, Firefox) and browse to https://shin.gokgs.com/.
 
 ![](/assets/img/shin1.png)
 
@@ -20,13 +20,13 @@ Once you are logged in to Shin KGS, you can get to rooms via the "Chat" menu opt
 
 ![](/assets/img/shin3_rooms.png)
 
-Rooms are listed on the left hand side.  
+Rooms are listed on the left-hand side.  
 
-To join the Vermont Go club room, scroll al lthe way down to the "Join Room" link on the left hand side.
+To join the Vermont Go club room, scroll down to the "Join Room" link on the left-hand side.
 
 ![](/assets/img/shin4_joinroom.png)
 
-Once you click join room, you can narrow the search by typing "Vermont" in the search field.
+Once you click "join room", you can narrow the search by typing "Vermont" in the search field.
 
 ![](/assets/img/shin5_searchroom.png)
 
@@ -34,7 +34,7 @@ Click on the Vermont Go Club Room to join.
 
 ## How to Chat in the Vermont Go Club Room
 
-Once you are in the Vermont Go Club Room, you can type in the field at the bottom of the page.  Chats here will be seen by all players in the room.  This is the group chat for the room.
+Once you are in the Vermont Go Club Room, you can type in the field at the bottom of the page.  This is the group chat for the room that all players can see.
 
 ![](/assets/img/shin6_vermontroom.png)
 
@@ -61,7 +61,7 @@ In the Create Challenge window:
 9. Set the periods to "5"
 10. Make sure the board is "19x19"
 
-Now click "Create Challenge"
+Now click "Create Challenge."
 
 ![](/assets/img/shin91_challenge.png)
 
@@ -74,28 +74,27 @@ Your opponent will now be able to see your game challenge proposal in the Vermon
 
 ## Setting Handicap and Komi
 
-For this tournament, game setup and configuration is a shared responsibility of both players.  The tournament organizers will tell you the parings and handicap, but they can not setup the game for you.
+For this tournament, game setup and configuration is a shared responsibility of both players.  The tournament organizers will tell you the parings and handicaps, but they can not set up the game for you.
 
 1. The White (stone) player is responsible for creating the Game Challenge
 
-2. The Black (stone) plauer is responsible for finding the game challengs, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Game Challenge window.
+2. The Black (stone) player is accountable for finding the game challenge, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Game Challenge window.
 
-3. The White (stone) player is responsible for checking the settings before accepting and begining the game.
+3. The White (stone) player is responsible for checking the settings before accepting and beginning the game.
 
 ## If the game starts with the wrong settings
 
-Simply resign, close the game and start again with the instructions above until the game settings are correct.  Free games do not impact your rank or rating.
+Resign, close the game and start again with the instructions above until the game settings are correct.  Free games do not impact your rank or rating.
 
 ## Marking dead stones at the end of the game
 
-For this tournament, determining which stones are alive/dead at the end of the game is a shared responsibility of both players. If there is a dispute (i.e., "is it seki?", try to agree on an answer before you contact the tournament organizers.  The orgainizers have the final say on all game results.
+For this tournament, determining which stones are alive/dead at the end of the game is both players' shared responsibility. If there is a dispute (i.e., "is it seki?"), try to agree on an answer before you contact the tournament organizers.  The organizers have the final say on all game results.
 
-## Remember to have fun and enjoy your games!
+## Remember to be nice, have fun, and enjoy your games!
 
-This is a fun event for friendly Go competition. We hope that you enjoy your games. We expect fair play and good sportsmanship. Please take the time to thank your opponent after each game.
+This event is a fun and friendly Go competition. We hope that you enjoy your games. We expect fair play and good sportsmanship. Please take the time to thank your opponent after each game.
 
 ![](/assets/img/shin95_play.png)
-
 
 
 
