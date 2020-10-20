@@ -14,7 +14,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | 4     | Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
 | 5     | Bill Arrand                      | 2k          | Worcester, Vermont       | selasi       |
 | 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
-| 7     | ชานน กือเจริญ Charnon Kuecharoen   | 2d          | Roi Et, Thailand         | Roietman     |
+| 7     | Charnon Kuecharoen               | 2d          | Roi Et, Thailand         | Roietman     |
 | 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
 | 9     | Caleb Lesher                     | 6k          | Montpelier, Vermont      | OhNo789      |
 | 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | dxhermit     |
