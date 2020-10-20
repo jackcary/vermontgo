@@ -32,7 +32,7 @@
 
 - The White (stone) player is responsible for creating the Game Challenge
 
-- The Black (stone) player is accountable for finding the game challenge, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Game Challenge window.
+- The Black (stone) player is responsible for finding the game challenge, setting his/her stone color to black, and setting the handicap and komi. This involves clicking the stone colors for each player in the Custom Game/Challenge window.
 
 - The White (stone) player is responsible for checking the settings before accepting and beginning the game.
 
