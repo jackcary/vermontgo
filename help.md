@@ -75,9 +75,9 @@
 - Try using the browser-based alternative Shin KGS.
 - [How to use Shin KGS]({{site.baseurl}}/shinkgs)
 
-## I'm using KGS with the Cgoban Client and when I click nothing happens (or it is really slow)
+## I'm using KGS with the Cgoban Client or GoUniverse Chrome extention and when I click nothing happens (or it is really slow sometimes)
 - Turn off or close all other programs on your computer. Maybe reboot too.
-- Make sure you are using the latest verison of the KGS client.
+- Make sure you are using the latest verison of the KGS software. Uninstall and reinstall.
 - Scan you computer for viruses long before the tournament.
 - Check your Internet or WiFi connection speed/service.
 - If all else fails, try using the browser-based alternative Shin KGS.
