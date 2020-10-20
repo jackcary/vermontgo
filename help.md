@@ -58,10 +58,12 @@
 - No, games are not rated, make sure to select "Free" in the Game Challenge settings.
 - No, the games cannot be set to private, please select "Public" in the Game Challenge settings.
 
-## How do I use KGS Cgoban client?
+## How do I use the KGS Cgoban client?
+- <https://gokgs.com/>
 - Video tutorial <https://www.youtube.com/watch?v=_GcMKFDQ468>
 - Information about the main window <https://www.gokgs.com/help/main.html#introduction>
 - Starting a new game <https://www.gokgs.com/help/newGameWin.html>. **Be sure you understand the nigiri and stone color buttons and how to set handicap before the tournament begins**
+- Troubleshooting <https://www.gokgs.com/help/faq/troubleshooting.html>
 - We highly recommend that you setup and play a few games in the Vermont Go Club Room before Friday if you are new to KGS!
 
 ## Where is the Vermont Go Club Room on KGS?
