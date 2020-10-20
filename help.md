@@ -14,7 +14,6 @@ jack@jackcary.com
 802-989-4481 (Pete)
 802-540-5224 (Jack)
 
-
-## What if the KGS Cgoban application is not working well for me?
+## What if the KGS Cgoban application is not working on my computer?
 Try using the brower-based alternative Shin KGS.
 [How to use Shin KGS]({{site.baseurl}}/shinkgs)
