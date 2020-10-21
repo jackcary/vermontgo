@@ -69,7 +69,7 @@
 
 ## Where is the Vermont Go Club Room on KGS?
 - Using the Cgoban client: Rooms –> Room List –> Clubs –> Vermont Go Club
-- Using Shin KGS: Click the "Chat" menu at top of page) –> Scroll down to "Join Room" –> Click Join Room –> Vermont Go Club
+- Using Shin KGS: Click the "Chat" menu at top of page –> Scroll down to "Join Room" –> Click Join Room –> Vermont Go Club
 
 ## What if the KGS Cgoban application is not working on my computer?
 - Try using the browser-based alternative Shin KGS.
