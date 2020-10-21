@@ -83,6 +83,9 @@
 - If all else fails, try using the browser-based alternative Shin KGS.
 - [How to use Shin KGS]({{site.baseurl}}/shinkgs)
 
+## I made a misclick! Can I undo my last move?
+- KGS does have a button that allows you to request an undo from your opponent, but it is up to your opponent to decide if they will grant the undo request.  You are not obligated to allow undos, but these are fun games, so you may want to allow undos for obvious misclicks.  Please do not abuse the undo feature by asking multiple times during the same game.
+
 ## What if my opponent does not show up?
 - Let the organizers know, we will try to contact your opponent via phone and email. Please be patient as some players are new to KGS. After 15 minutes from the start of the round, you automatically win via forfeit/time.
 
