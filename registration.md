@@ -6,22 +6,22 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 ## Registered Players
 
-| #     | Name                             | Entry Rank  | Home town                | KGS username |
-| :---: | :--------                        | :---------: | :---                     | :---         |
-| 1     | Peter Schumer                    | 2k          | Middlebury, Vermont      | tenuki10     |
-| 2     | Jack Cary                        | 3k          | Burlington, Vermont      | jackcary     | 
-| 3     | Rich Chalmers	                   | 1d          | Williamstown, Vermont    | shauke       |
-| 4     | Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
-| 5     | Bill Arrand                      | 2k          | Worcester, Vermont       | selasi       |
-| 6     | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
-| 7     | Charnon Kuecharoen               | 2d          | Roi Et, Thailand         | Roietman     |
-| 8     | Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
-| 9     | Caleb Lesher                     | 6k          | Montpelier, Vermont      | OhNo789      |
-| 10    | Dan Deneen                       | 2k          | Sharon, Vermont          | dxhermit     |
-| 11    | John Hartman                     | 5k          | Saint Albans, Vermont    | mcwilli      |
-| 12    | Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
-| 13    | Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
-| 14    | Rujun Ding                       | 5d          | Shanghai, China          | minicrab     |
-| 15    | Aaron Mitton                     | 12k         | Williston, Vermont       | amittonvt    |
-| 16    | Andrew Richter                   | 6k          | Essex Junction, Vermont  | Andrew256    |
+| Name                             | Entry Rank  | Home town                | KGS username |
+| :--------                        | :---------: | :---                     | :---         |
+| Peter Schumer                    | 2k          | Middlebury, Vermont      | tenuki10     |
+| Jack Cary                        | 3k          | Burlington, Vermont      | jackcary     | 
+| Rich Chalmers	                   | 1d          | Williamstown, Vermont    | shauke       |
+| Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
+| Bill Arrand                      | 2k          | Worcester, Vermont       | selasi       |
+| Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
+| Charnon Kuecharoen               | 2d          | Roi Et, Thailand         | Roietman     |
+| Quan Wei                         | 1d          | Essex Junction, Vermont  | wei2020      |
+| Caleb Lesher                     | 6k          | Montpelier, Vermont      | OhNo789      |
+| Dan Deneen                       | 2k          | Sharon, Vermont          | dxhermit     |
+| John Hartman                     | 5k          | Saint Albans, Vermont    | mcwilli      |
+| Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
+| Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
+| Rujun Ding                       | 5d          | Shanghai, China          | minicrab     |
+| Aaron Mitton                     | 12k         | Williston, Vermont       | amittonvt    |
+| Andrew Richter                   | 6k          | Essex Junction, Vermont  | Andrew256    |
 
