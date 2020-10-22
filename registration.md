@@ -22,6 +22,6 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | Karen Lanzetta                   | 1d          | Lebanon, New Hampshire   | NannyOgg     |
 | Ted Vogt                         | 16k         | West Brookfield, Vermont | eaglepeak    |
 | Rujun Ding                       | 5d          | Shanghai, China          | minicrab     |
-| Aaron Mitton                     | 12k         | Williston, Vermont       | amitton      |
+| Aaron Mitton                     | 11k         | Williston, Vermont       | amitton      |
 | Andrew Richter                   | 6k          | Essex Junction, Vermont  | Andrew256    |
 
