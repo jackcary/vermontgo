@@ -30,7 +30,7 @@ Player Game Results on KGS
 
 [14 - Rujun Ding (minicrab)](https://jackcary.github.io/vermontgo/admin#14---rujun-ding-minicrab)
 
-[15 - Aaron Mitton (amittonvt)](https://jackcary.github.io/vermontgo/admin#15---aaron-mitton-amittonvt)
+[15 - Aaron Mitton (amitton)](https://jackcary.github.io/vermontgo/admin#15---aaron-mitton-amitton)
 
 [16 - Andrew Richter (Andrew256)](https://jackcary.github.io/vermontgo/admin#16---andrew-richter-andrew256)
 
@@ -77,8 +77,8 @@ Player Game Results on KGS
 ## 14 - Rujun Ding (minicrab)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=minicrab" height="200" width="100%"></iframe>
 
-## 15 - Aaron Mitton (amittonvt)
-<iframe src="https://www.gokgs.com/gameArchives.jsp?user=amittonvt" height="200" width="100%"></iframe>
+## 15 - Aaron Mitton (amitton)
+<iframe src="https://www.gokgs.com/gameArchives.jsp?user=amitton" height="200" width="100%"></iframe>
 
 ## 16 - Andrew Richter (Andrew256)
 <iframe src="https://www.gokgs.com/gameArchives.jsp?user=Andrew256" height="200" width="100%"></iframe>
