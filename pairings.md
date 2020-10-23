@@ -13,7 +13,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 |:-----                      |:-----                         |:--------:|:----:|:------:|:---:|
 | Rujun Ding <br/>(**minicrab**)      | Charnon Kuechareon <br/>(**Roietman**) | 3        | 0.5  |        |     |
 | Quan Wei <br/>(**wei2020**)         | Rich Chalmers <br/>(**shauke**)        | 0        | 6.5  |        |     |
-| Yuxin Xiao <br/>(**xiaoyuxing**)    | Takuma Sminkey <br/>(**takuma63**)     | 0        | 0.5  |        |     |
+| Yuxin Xiao <br/>(**xiaoyuxing**)    | Kasumi Sminkey <br/>(**takuma63**)     | 0        | 0.5  |        |     |
 | Dan Deneen	<br/>(**dxhermit**)     | Peter Schumer <br/>(**tenuki10**)      | 0        | 6.5  |        |     |
 | Bill Arrand <br/>(**selasi**)       | Jack Cary <br/>(**jackcary**)          | 0        | 0.5  |        |     |
 | John Hartman <br/>(**mcwilli**)     | Caleb Lesher <br/>(**OhNo789**)        | 0        | 0.5  |        |     |
