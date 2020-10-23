@@ -18,7 +18,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | Bill Arrand <br/>(**selasi**)       | Jack Cary <br/>(**jackcary**)          | 0        | 0.5  |        |     |
 | John Hartman <br/>(**mcwilli**)     | Caleb Lesher <br/>(**OhNo789**)        | 0        | 0.5  |        |     |
 | Andrew Richter <br/>(**Andrew256**) | Aaron Mitton <br/>(**amitton**)        | 5        | 0.5  |        |     |
-| Ted Vogt <br/>(**eaglepeak**)       |                                   |          |      | Bye    |     |
+| Ted Vogt <br/>(**eaglepeak**)       |                                        |          |      | Bye    |     |
 
 
 ## Round 2
