@@ -11,7 +11,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | Peter Schumer                    | 2k          | Middlebury, Vermont      | tenuki10     |
 | Jack Cary                        | 3k          | Burlington, Vermont      | jackcary     | 
 | Rich Chalmers	                   | 1d          | Williamstown, Vermont    | shauke       |
-| Takuma Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
+| Kasumi Sminkey                   | 1k          | Okinawa, Japan           | takuma63     |
 | Bill Arrand                      | 2k          | Worcester, Vermont       | selasi       |
 | Yuxin Xiao                       | 1d          | Shanghai, China          | xiaoyuxing   |
 | Charnon Kuecharoen               | 2d          | Roi Et, Thailand         | Roietman     |
