@@ -11,14 +11,14 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | White                      | Black                         | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                         |:--------:|:----:|:------:|:---:|
-| Rujun Ding (minicrab)      | Charnon Kuechareon (Roietman) | 3        | 0.5  |        |     |
-| Quan Wei (wei2020)         | Rich Chalmers (shauke)        | 0        | 6.5  |        |     |
-| Yuxin Xiao (xiaoyuxing)    | Takuma Sminkey (takuma63)     | 0        | 0.5  |        |     |
-| Dan Deneen	(dxhermit)     | Peter Schumer (tenuki10)      | 0        | 6.5  |        |     |
-| Bill Arrand (selasi)       | Jack Cary (jackcary)          | 0        | 0.5  |        |     |
-| John Hartman (mcwilli)     | Caleb Lesher (OhNo789)        | 0        | 0.5  |        |     |
-| Andrew Richter (Andrew256) | Aaron Mitton (amitton)        | 5        | 0.5  |        |     |
-| Ted Vogt (eaglepeak)       | -                             | -        | -    | Bye    | -   |
+| Rujun Ding (**minicrab**)      | Charnon Kuechareon (**Roietman**) | 3        | 0.5  |        |     |
+| Quan Wei (**wei2020**)         | Rich Chalmers (**shauke**)        | 0        | 6.5  |        |     |
+| Yuxin Xiao (**xiaoyuxing**)    | Takuma Sminkey (**takuma63**)     | 0        | 0.5  |        |     |
+| Dan Deneen	(**dxhermit**)     | Peter Schumer (**tenuki10**)      | 0        | 6.5  |        |     |
+| Bill Arrand (**selasi**)       | Jack Cary (**jackcary**)          | 0        | 0.5  |        |     |
+| John Hartman (**mcwilli**)     | Caleb Lesher (**OhNo789**)        | 0        | 0.5  |        |     |
+| Andrew Richter (**Andrew256**) | Aaron Mitton (**amitton**)        | 5        | 0.5  |        |     |
+| Ted Vogt (**eaglepeak**)       |                                   |          |      | Bye    |     |
 
 
 ## Round 2
