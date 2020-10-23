@@ -9,16 +9,16 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ## Round 1
 ### Fri, Oct 23 @	7:00 PM (EDT)
 
-| White      | Black    | Handicap | Komi | Result | SGF |
-|:-----:|:-----:|:--------:|:----:|:------:|:---:|
-| minicrab   | Roietman | 3        | 0.5  |        |     |
-| wei2020    | shauke   | 0        | 6.5  |        |     |
-| xiaoyuxing | takuma63 | 0        | 0.5  |        |     |
-| dxhermit   | tenuki10 | 0        | 6.5  |        |     |
-| selasi     | jackcary | 0        | 0.5  |        |     |
-| mcwilli    | OhNo789  | 0        | 0.5  |        |     |
-| Andrew256  | amitton  | 5        | 0.5  |        |     |
-| eaglepeak  | -        | -        | -    | -      | -   |
+| White                      | Black                         | Handicap | Komi | Result | SGF |
+|:-----:                     |:-----:                        |:--------:|:----:|:------:|:---:|
+| Rujun Ding (minicrab)      | Charnon Kuechareon (Roietman) | 3        | 0.5  |        |     |
+| Quan Wei (wei2020)         | Rich Chalmers (shauke)        | 0        | 6.5  |        |     |
+| Yuxin Xiao (xiaoyuxing)    | Takuma Sminkey (takuma63)     | 0        | 0.5  |        |     |
+| Dan Deneen	(dxhermit)     | Peter Schumer (tenuki10)      | 0        | 6.5  |        |     |
+| Bill Arrand (selasi)       | Jack Cary (jackcary)          | 0        | 0.5  |        |     |
+| John Hartman (mcwilli)     | Caleb Lesher (OhNo789)        | 0        | 0.5  |        |     |
+| Andrew Richter (Andrew256) | Aaron Mitton (amitton)        | 5        | 0.5  |        |     |
+| Ted Vogt (eaglepeak)       | -                             | -        | -    | Bye    | -   |
 
 
 ## Round 2
