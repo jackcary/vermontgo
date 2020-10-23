@@ -9,16 +9,16 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ## Round 1
 ### Fri, Oct 23 @	7:00 PM (EDT)
 
-| White | Black | Handicap | Komi | Result | SGF |
+| White      | Black    | Handicap | Komi | Result | SGF |
 |:-----:|:-----:|:--------:|:----:|:------:|:---:|
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
+| minicrab   | Roietman | 3        | 0.5  |        |     |
+| wei2020    | shauke   | 0        | 6.5  |        |     |
+| xiaoyuxing | takuma63 | 0        | 0.5  |        |     |
+| dxhermit   | tenuki10 | 0        | 6.5  |        |     |
+| selasi     | jackcary | 0        | 0.5  |        |     |
+| mcwilli    | OhNo789  | 0        | 0.5  |        |     |
+| Andrew256  | amitton  | 5        | 0.5  |        |     |
+| eaglepeak  | -        | -        | -    | -      | -   |
 
 
 ## Round 2
