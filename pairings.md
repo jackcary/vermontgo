@@ -10,7 +10,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ### Fri, Oct 23 @	7:00 PM (EDT)
 
 | White                      | Black                         | Handicap | Komi | Result | SGF |
-|:-----                     |:-----:                        |:--------:|:----:|:------:|:---:|
+|:-----                      |:-----                         |:--------:|:----:|:------:|:---:|
 | Rujun Ding (minicrab)      | Charnon Kuechareon (Roietman) | 3        | 0.5  |        |     |
 | Quan Wei (wei2020)         | Rich Chalmers (shauke)        | 0        | 6.5  |        |     |
 | Yuxin Xiao (xiaoyuxing)    | Takuma Sminkey (takuma63)     | 0        | 0.5  |        |     |
