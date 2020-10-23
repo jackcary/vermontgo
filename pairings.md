@@ -11,14 +11,14 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | White                      | Black                         | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                         |:--------:|:----:|:------:|:---:|
-| Rujun Ding (**minicrab**)      | Charnon Kuechareon (**Roietman**) | 3        | 0.5  |        |     |
-| Quan Wei (**wei2020**)         | Rich Chalmers (**shauke**)        | 0        | 6.5  |        |     |
-| Yuxin Xiao (**xiaoyuxing**)    | Takuma Sminkey (**takuma63**)     | 0        | 0.5  |        |     |
-| Dan Deneen	(**dxhermit**)     | Peter Schumer (**tenuki10**)      | 0        | 6.5  |        |     |
-| Bill Arrand (**selasi**)       | Jack Cary (**jackcary**)          | 0        | 0.5  |        |     |
-| John Hartman (**mcwilli**)     | Caleb Lesher (**OhNo789**)        | 0        | 0.5  |        |     |
-| Andrew Richter (**Andrew256**) | Aaron Mitton (**amitton**)        | 5        | 0.5  |        |     |
-| Ted Vogt (**eaglepeak**)       |                                   |          |      | Bye    |     |
+| Rujun Ding <br/>(**minicrab**)      | Charnon Kuechareon <br/>(**Roietman**) | 3        | 0.5  |        |     |
+| Quan Wei <br/>(**wei2020**)         | Rich Chalmers <br/>(**shauke**)        | 0        | 6.5  |        |     |
+| Yuxin Xiao <br/>(**xiaoyuxing**)    | Takuma Sminkey <br/>(**takuma63**)     | 0        | 0.5  |        |     |
+| Dan Deneen	<br/>(**dxhermit**)     | Peter Schumer <br/>(**tenuki10**)      | 0        | 6.5  |        |     |
+| Bill Arrand <br/>(**selasi**)       | Jack Cary <br/>(**jackcary**)          | 0        | 0.5  |        |     |
+| John Hartman <br/>(**mcwilli**)     | Caleb Lesher <br/>(**OhNo789**)        | 0        | 0.5  |        |     |
+| Andrew Richter <br/>(**Andrew256**) | Aaron Mitton <br/>(**amitton**)        | 5        | 0.5  |        |     |
+| Ted Vogt <br/>(**eaglepeak**)       |                                   |          |      | Bye    |     |
 
 
 ## Round 2
