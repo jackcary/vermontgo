@@ -57,7 +57,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | White                      | Black                                                 | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
-| Rujun Ding <br/>(minicrab)          | Rich Chalmers <br/>(shauke)                  | 4        | 0.5  |        |     |
+| Rujun Ding <br/>(minicrab)          | **Rich Chalmers <br/>(shauke)**              | 4        | 0.5  | B+2.5  |     |
 | Charnon Kuechareon <br/>(Roietman)  |                                              |          |      |    Bye |     |
 | Yuxin Xiao <br/>(xiaoyuxing)        | Quan Wei <br/>(wei2020)                      | 0        | 6.5  |    -   |     |
 | Kasumi Sminkey <br/>(takuma63       | **Dan Deneen	<br/>(dxhermit)**              | 0        | 0.5  |  B+5.5 |     |
