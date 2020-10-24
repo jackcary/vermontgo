@@ -24,16 +24,16 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ## Round 2
 ### Sat, Oct 24	@ 9:30 AM (EDT)
 
-| White                      | Black                                              | Handicap | Komi | Result | SGF |
-|:-----                      |:-----                                              |:--------:|:----:|:------:|:---:|
-| Rujun Ding <br/>(minicrab)      | Charnon Kuechareon <br/>(Roietman)            | 3        | 0.5  |        |     |
-| Quan Wei <br/>(wei2020)         | Kasumi Sminkey <br/>(takuma63)                | 0        | 0.5  |        |     |
-| Rich Chalmers <br/>(shauke)     | Yuxin Xiao <br/>(xiaoyuxing)                  | 0        | 6.5  |        |     |
-| Dan Deneen	<br/>(dxhermit)     | Caleb Lesher <br/>(OhNo789)                   | 4        | 0.5  |        |     |
-| Peter Schumer <br/>(tenuki10)   | Jack Cary <br/>(jackcary)                     | 0        | 0.5  |        |     |
-| Bill Arrand <br/>(selasi)       | John Hartman <br/>(mcwilli)                   | 3        | 0.5  |        |     |
-| Aaron Mitton <br/>(amitton)     | Ted Vogt <br/>(eaglepeak)                     | 6        | 0.5  |        |     |
-| Andrew Richter <br/>(Andrew256) |                                               |          |      | Bye    |     |
+| White                      | Black                                                 | Handicap | Komi | Result | SGF |
+|:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
+| Rujun Ding <br/>(minicrab)          | **Charnon Kuechareon <br/>(Roietman)**       | 3        | 0.5  | B+Res. |     |
+| **Quan Wei <br/>(wei2020)**         | Kasumi Sminkey <br/>(takuma63)               | 0        | 0.5  | W+18.5 |     |
+| **Rich Chalmers <br/>(shauke)**     | Yuxin Xiao <br/>(xiaoyuxing)                 | 0        | 6.5  | W+1.5  |     |
+| **Dan Deneen	<br/>(dxhermit)**     | Caleb Lesher <br/>(OhNo789)                  | 4        | 0.5  | W+Res. |     |
+| Peter Schumer <br/>(tenuki10)       | **Jack Cary <br/>(jackcary)**                | 0        | 0.5  | B+2.5  |     |
+| **Bill Arrand <br/>(selasi)**       | John Hartman <br/>(mcwilli)                  | 3        | 0.5  | W+35.5 |     |
+| **Aaron Mitton <br/>(amitton)**     | Ted Vogt <br/>(eaglepeak)                    | 6        | 0.5  | W+78.5 |     |
+| Andrew Richter <br/>(Andrew256)     |                                              |          |      | Bye    |     |
 
 
 
