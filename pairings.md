@@ -9,16 +9,17 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ## Round 1
 ### Fri, Oct 23 @	7:00 PM (EDT)
 
-| White                      | Black                         | Handicap | Komi | Result | SGF |
-|:-----                      |:-----                         |:--------:|:----:|:------:|:---:|
-| Rujun Ding <br/>(**minicrab**)      | Charnon Kuechareon <br/>(**Roietman**) | 3        | 0.5  |        |     |
-| Quan Wei <br/>(**wei2020**)         | Rich Chalmers <br/>(**shauke**)        | 0        | 6.5  |        |     |
-| Yuxin Xiao <br/>(**xiaoyuxing**)    | Kasumi Sminkey <br/>(**takuma63**)     | 0        | 0.5  |        |     |
-| Dan Deneen	<br/>(**dxhermit**)     | Peter Schumer <br/>(**tenuki10**)      | 0        | 6.5  |        |     |
-| Bill Arrand <br/>(**selasi**)       | Jack Cary <br/>(**jackcary**)          | 0        | 0.5  |        |     |
-| John Hartman <br/>(**mcwilli**)     | Caleb Lesher <br/>(**OhNo789**)        | 0        | 0.5  |        |     |
-| Andrew Richter <br/>(**Andrew256**) | Aaron Mitton <br/>(**amitton**)        | 5        | 0.5  |        |     |
-| Ted Vogt <br/>(**eaglepeak**)       |                                        |          |      | Bye    |     |
+| White                      | Black                                              | Handicap | Komi | Result | SGF |
+|:-----                      |:-----                                              |:--------:|:----:|:------:|:---:|
+| **Rujun Ding <br/>(minicrab)**         | Dan Deneen	<br/>(dxhermit)             | 6        | 0.5  | W+Res. |     |
+| Quan Wei <br/>(wei2020)                | **Rich Chalmers <br/>(shauke)**        | 0        | 6.5  | B+Time |     |
+| **Yuxin Xiao <br/>(xiaoyuxing)**       | Kasumi Sminkey <br/>(takuma63)         | 0        | 0.5  | W+Res. |     |
+| Bill Arrand <br/>(selasi)              | **Jack Cary <br/>(jackcary)**          | 0        | 0.5  | B+Res. |     |
+| John Hartman <br/>(mcwilli)            | **Caleb Lesher <br/>(OhNo789)**        | 0        | 0.5  | B+32.5 |     |
+| Andrew Richter <br/>(Andrew256)        | **Aaron Mitton <br/>(amitton)**        | 5        | 0.5  | B+97.5 |     |
+| Ted Vogt <br/>(eaglepeak)              |                                        |          |      | Bye    |     |
+| Peter Schumer <br/>(tenuki10)          |                                        |          |      | Bye    |     |
+| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Miss   |     |
 
 
 ## Round 2
