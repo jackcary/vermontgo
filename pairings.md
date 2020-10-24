@@ -1,6 +1,6 @@
 # Pairings & Results
 
-# Thank you for being part of the Stay Home Vermont Go Tournament!
+# Thank you for joining the Stay Home Vermont Go Tournament!
 
 ## Final Results
 
