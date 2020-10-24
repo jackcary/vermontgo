@@ -1,8 +1,6 @@
 # Pairings & Results
 
-All games will be played in the Vermont Go Club room on the KGS Go Server https://www.gokgs.com/
-
-__Rooms –> Room List –> Clubs –> Vermont Go Club__
+# Thank you for being part of the Stay Home Vermont Go Tournament!
 
 ## Final Results
 
@@ -51,14 +49,14 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | White                      | Black                                                 | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
-| **Rujun Ding <br/>(minicrab)**          | Quan Wei <br/>(wei2020                   | 4        | 0.5  | W+Res.       |     |
-| **Charnon Kuechareon <br/>(Roietman)**  | Bill Arrand <br/>(selasi)                | 3        | 0.5  | W+43.5       |     |
-| **Rich Chalmers <br/>(shauke)**         | Jack Cary <br/>(jackcary)                | 3        | 0.5  | W+10.5       |     |
-| Yuxin Xiao <br/>(xiaoyuxing)            | **Dan Deneen	<br/>(dxhermit)**          | 2        | 0.5  | B+Res.       |     |
-| **Kasumi Sminkey <br/>(takuma63)**      | John Hartman <br/>(mcwilli)              | 4        | 0.5  | W+55.5       |     |
+| **Rujun Ding <br/>(minicrab)**          | Quan Wei <br/>(wei2020)                  | 4        | 0.5  | W+Res.       | [SGF](/assets/sgf/r3/wei2020-minicrab.sgf)    |
+| **Charnon Kuechareon <br/>(Roietman)**  | Bill Arrand <br/>(selasi)                | 3        | 0.5  | W+43.5       | [SGF](/assets/sgf/r3/roietman-selasi.sgf)      |
+| **Rich Chalmers <br/>(shauke)**         | Jack Cary <br/>(jackcary)                | 3        | 0.5  | W+10.5       | [SGF](/assets/sgf/r3/shauke-jackcary.sgf)      |
+| Yuxin Xiao <br/>(xiaoyuxing)            | **Dan Deneen	<br/>(dxhermit)**          | 2        | 0.5  | B+Res.       | [SGF](/assets/sgf/r3/xiaoyuxing-dxhermit.sgf)      |
+| **Kasumi Sminkey <br/>(takuma63)**      | John Hartman <br/>(mcwilli)              | 4        | 0.5  | W+55.5       | [SGF](/assets/sgf/r3/takuma63-mcwilli.sgf)      |
 | Peter Schumer <br/>(tenuki10)           |                                          |          |      | Bye          |     |
-| **Caleb Lesher <br/>(OhNo789)**         | Aaron Mitton <br/>(amitton)              | 3        | 0.5  | W+56.5       |     |
-| Andrew Richter <br/>(Andrew256)         | **Ted Vogt <br/>(eaglepeak)**            | 9        | 0.5  | B+59.5       |     |
+| **Caleb Lesher <br/>(OhNo789)**         | Aaron Mitton <br/>(amitton)              | 3        | 0.5  | W+56.5       | [SGF](/assets/sgf/r3/OhNo789-amitton.sgf)      |
+| Andrew Richter <br/>(Andrew256)         | **Ted Vogt <br/>(eaglepeak)**            | 9        | 0.5  | B+59.5       | [SGF](/assets/sgf/r3/Andrew256-eaglepeak.sgf)      |
 
 
 ## Round 4
@@ -66,13 +64,13 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | White                      | Black                                                 | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
-| Rujun Ding <br/>(minicrab)          | **Rich Chalmers <br/>(shauke)**              | 4        | 0.5  | B+2.5  |     |
+| Rujun Ding <br/>(minicrab)          | **Rich Chalmers <br/>(shauke)**              | 4        | 0.5  | B+2.5  | [SGF](/assets/sgf/r4/minicrab-shauke.sgf)      |
 | Charnon Kuechareon <br/>(Roietman)  |                                              |          |      |    Bye |     |
 | Yuxin Xiao <br/>(xiaoyuxing)        |                                              |          |      |    Bye |     |
 | Quan Wei <br/>(wei2020)             |                                              |          |      |    Bye |     |
-| Kasumi Sminkey <br/>(takuma63       | **Dan Deneen	<br/>(dxhermit)**              | 0        | 0.5  |  B+5.5 |     |
-| **Peter Schumer <br/>(tenuki10)**   | Bill Arrand <br/>(selasi)                    | 0        | 6.5  | W+14.5 |     |
-| **Jack Cary <br/>(jackcary)**       | Aaron Mitton <br/>(amitton))                 | 6        | 0.5  | W+20.5 |     |
-| **John Hartman <br/>(mcwilli)**     | Ted Vogt <br/>(eaglepeak)                    | 9        | 0.5  | W+23.5 |     |
-| **Caleb Lesher <br/>(OhNo789)**     | Andrew Richter <br/>(Andrew256)              | 0        | 0.5  | W+Res. |     |
+| Kasumi Sminkey <br/>(takuma63       | **Dan Deneen	<br/>(dxhermit)**              | 0        | 0.5  |  B+5.5 | [SGF](/assets/sgf/r4/takuma63-dxhermit.sgf)     |
+| **Peter Schumer <br/>(tenuki10)**   | Bill Arrand <br/>(selasi)                    | 0        | 6.5  | W+14.5 | [SGF](/assets/sgf/r4/tenuki10-selasi.sgf)    |
+| **Jack Cary <br/>(jackcary)**       | Aaron Mitton <br/>(amitton)                  | 6        | 0.5  | W+20.5 | [SGF](/assets/sgf/r4/jackcary-amitton.sgf)    |
+| **John Hartman <br/>(mcwilli)**     | Ted Vogt <br/>(eaglepeak)                    | 9        | 0.5  | W+23.5 | [SGF](/assets/sgf/r4/mcwilli-eaglepeak.sgf)    |
+| **Caleb Lesher <br/>(OhNo789)**     | Andrew Richter <br/>(Andrew256)              | 0        | 0.5  | W+Res. | [SGF](/assets/sgf/r4/OhNo789-Andrew256.sgf)    |
 
