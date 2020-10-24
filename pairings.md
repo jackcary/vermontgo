@@ -49,7 +49,7 @@
 
 | White                      | Black                                                 | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
-| **Rujun Ding <br/>(minicrab)**          | Quan Wei <br/>(wei2020)                  | 4        | 0.5  | W+Res.       | [SGF](/assets/sgf/r3/wei2020-minicrab.sgf)    |
+| **Rujun Ding <br/>(minicrab)**          | Quan Wei <br/>(wei2020)                  | 4        | 0.5  | W+Res.       | [SGF](/assets/sgf/r3/minicrab-wei2020.sgf)    |
 | **Charnon Kuechareon <br/>(Roietman)**  | Bill Arrand <br/>(selasi)                | 3        | 0.5  | W+43.5       | [SGF](/assets/sgf/r3/roietman-selasi.sgf)      |
 | **Rich Chalmers <br/>(shauke)**         | Jack Cary <br/>(jackcary)                | 3        | 0.5  | W+10.5       | [SGF](/assets/sgf/r3/shauke-jackcary.sgf)      |
 | Yuxin Xiao <br/>(xiaoyuxing)            | **Dan Deneen	<br/>(dxhermit)**          | 2        | 0.5  | B+Res.       | [SGF](/assets/sgf/r3/xiaoyuxing-dxhermit.sgf)      |
