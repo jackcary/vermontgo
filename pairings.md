@@ -12,13 +12,13 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | White                      | Black                                              | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                              |:--------:|:----:|:------:|:---:|
 | **Rujun Ding <br/>(minicrab)**         | Dan Deneen	<br/>(dxhermit)             | 6        | 0.5  | W+Res. |  [SGF](/assets/sgf/r1/minicrab-dxhermit.sgf)   |
-| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Miss   |     |
-| Quan Wei <br/>(wei2020)                | **Rich Chalmers <br/>(shauke)**        | 0        | 6.5  | B+Time |     |
-| **Yuxin Xiao <br/>(xiaoyuxing)**       | Kasumi Sminkey <br/>(takuma63)         | 0        | 0.5  | W+Res. |     |
+| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Miss   |      |
+| Quan Wei <br/>(wei2020)                | **Rich Chalmers <br/>(shauke)**        | 0        | 6.5  | B+Time | [SGF](/assets/sgf/r1/wei2020-shauke.sgf)    |
+| **Yuxin Xiao <br/>(xiaoyuxing)**       | Kasumi Sminkey <br/>(takuma63)         | 0        | 0.5  | W+Res. | [SGF](/assets/sgf/r1/xiaoyuxing-takuma63.sgf)    |
 | Peter Schumer <br/>(tenuki10)          |                                        |          |      | Bye    |     |
-| Bill Arrand <br/>(selasi)              | **Jack Cary <br/>(jackcary)**          | 0        | 0.5  | B+Res. |     |
-| John Hartman <br/>(mcwilli)            | **Caleb Lesher <br/>(OhNo789)**        | 0        | 0.5  | B+32.5 |     |
-| Andrew Richter <br/>(Andrew256)        | **Aaron Mitton <br/>(amitton)**        | 5        | 0.5  | B+97.5 |     |
+| Bill Arrand <br/>(selasi)              | **Jack Cary <br/>(jackcary)**          | 0        | 0.5  | B+Res. | [SGF](/assets/sgf/r1/selasi-jackcary.sgf)    |
+| John Hartman <br/>(mcwilli)            | **Caleb Lesher <br/>(OhNo789)**        | 0        | 0.5  | B+32.5 | [SGF](/assets/sgf/r1/mcwilli-OhNo789.sgf)    |
+| Andrew Richter <br/>(Andrew256)        | **Aaron Mitton <br/>(amitton)**        | 5        | 0.5  | B+97.5 | [SGF](/assets/sgf/r1/Andrew256-amitton.sgf)    |
 | Ted Vogt <br/>(eaglepeak)              |                                        |          |      | Bye    |     |
 
 ## Round 2
