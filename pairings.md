@@ -12,7 +12,7 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |
 | Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |
 | Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |
-| Fighting Spirit Award            | Everyone                    | |
+| Fighting Spirit Award            | Everyone!                    | |
 
 
 ## Round 1
