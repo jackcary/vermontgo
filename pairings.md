@@ -8,11 +8,11 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 
 | Place                      | Name                                               | Record | 
 |:-----                      |:-----                                              |:--------:|
-| **First Place**            | **Rich Chalmers <br/>(shauke)**                    | **4-0**      |
-| **Second Place**            | **Jack Cary <br/>(jackcary)**                    | **3-1**     |
-| **Third Place**            | **Dan Deneen	<br/>(dxhermit)**                     | **3-1**      |
-| **Fourth Place**            | **Caleb Lesher <br/>(OhNo789)**                    | **3-1**      |
-| **Fighting Spirit Award**            | **Everyone**                    | |
+| First Place            | Rich Chalmers <br/>(shauke)                    | 4-0      |
+| Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |
+| Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |
+| Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |
+| Fighting Spirit Award            | Everyone                    | |
 
 
 ## Round 1
