@@ -40,16 +40,16 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 ## Round 3
 ### Sat, Oct 24	@ 1:00 PM (EDT)
 
-| White | Black | Handicap | Komi | Result | SGF |
-|:-----:|:-----:|:--------:|:----:|:------:|:---:|
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
+| White                      | Black                                                 | Handicap | Komi | Result | SGF |
+|:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
+| Rujun Ding <br/>(minicrab)          | Quan Wei <br/>(wei2020                       | 4        | 0.5  |        |     |
+| Charnon Kuechareon <br/>(Roietman)  | Bill Arrand <br/>(selasi)                    | 3        | 0.5  |        |     |
+| Rich Chalmers <br/>(shauke)         | Jack Cary <br/>(jackcary)                    | 3        | 0.5  |        |     |
+| Yuxin Xiao <br/>(xiaoyuxing)        | Dan Deneen	<br/>(dxhermit)                  | 2        | 0.5  |        |     |
+| Kasumi Sminkey <br/>(takuma63       | John Hartman <br/>(mcwilli)                  | 4        | 0.5  |        |     |
+| Peter Schumer <br/>(tenuki10)       |                                              |          |      | Bye    |     |
+| Caleb Lesher <br/>(OhNo789)         | Aaron Mitton <br/>(amitton)                  | 3        | 0.5  |        |     |
+| Andrew Richter <br/>(Andrew256)     | Ted Vogt <br/>(eaglepeak)                    | 9        | 0.5  |        |     |
 
 
 ## Round 4
