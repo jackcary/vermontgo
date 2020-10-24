@@ -45,23 +45,24 @@ __Rooms –> Room List –> Clubs –> Vermont Go Club__
 | **Rujun Ding <br/>(minicrab)**          | Quan Wei <br/>(wei2020                   | 4        | 0.5  | W+Res.       |     |
 | **Charnon Kuechareon <br/>(Roietman)**  | Bill Arrand <br/>(selasi)                | 3        | 0.5  | W+43.5       |     |
 | **Rich Chalmers <br/>(shauke)**         | Jack Cary <br/>(jackcary)                | 3        | 0.5  | W+10.5       |     |
-| Yuxin Xiao <br/>(xiaoyuxing)        | **Dan Deneen	<br/>(dxhermit)**              | 2        | 0.5  | B+Res.       |     |
-| **Kasumi Sminkey <br/>(takuma63)**       | John Hartman <br/>(mcwilli)             | 4        | 0.5  | W+55.5       |     |
-| Peter Schumer <br/>(tenuki10)       |                                              |          |      | Bye          |     |
+| Yuxin Xiao <br/>(xiaoyuxing)            | **Dan Deneen	<br/>(dxhermit)**          | 2        | 0.5  | B+Res.       |     |
+| **Kasumi Sminkey <br/>(takuma63)**      | John Hartman <br/>(mcwilli)              | 4        | 0.5  | W+55.5       |     |
+| Peter Schumer <br/>(tenuki10)           |                                          |          |      | Bye          |     |
 | **Caleb Lesher <br/>(OhNo789)**         | Aaron Mitton <br/>(amitton)              | 3        | 0.5  | W+56.5       |     |
-| Andrew Richter <br/>(Andrew256)     | **ed Vogt <br/>(eaglepeak)**                 | 9        | 0.5  | B+59.5       |     |
+| Andrew Richter <br/>(Andrew256)         | **Ted Vogt <br/>(eaglepeak)**            | 9        | 0.5  | B+59.5       |     |
 
 
 ## Round 4
 ### Sat, Oct 24	@ 3:30 PM (EDT)
 
-| White | Black | Handicap | Komi | Result | SGF |
-|:-----:|:-----:|:--------:|:----:|:------:|:---:|
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
-|       |       |          |      |        |     |
+| White                      | Black                                                 | Handicap | Komi | Result | SGF |
+|:-----                      |:-----                                                 |:--------:|:----:|:------:|:---:|
+| Rujun Ding <br/>(minicrab)          | Rich Chalmers <br/>(shauke)                  | 4        | 0.5  |        |     |
+| Charnon Kuechareon <br/>(Roietman)  |                                              |          |      |    Bye |     |
+| Yuxin Xiao <br/>(xiaoyuxing)         | Quan Wei <br/>(wei2020                      | 0        | 6.5  |        |     |
+| Kasumi Sminkey <br/>(takuma63        | Dan Deneen	<br/>(dxhermit)                  | 0        | 0.5  |        |     |
+| Peter Schumer <br/>(tenuki10       |  Bill Arrand <br/>(selasi)                    | 0        | 6.5  |        |     |
+| Jack Cary <br/>(jackcary)         | Aaron Mitton <br/>(amitton))                   | 6        | 0.5  |        |     |
+| John Hartman <br/>(mcwilli)         | Ted Vogt <br/>(eaglepeak)                    | 9        | 0.5  |        |     |
+| Caleb Lesher <br/>(OhNo789)     | Andrew Richter <br/>(Andrew256)                  | 0        | 0.5  |        |     |
+
