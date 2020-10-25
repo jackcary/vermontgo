@@ -12,7 +12,9 @@
 | Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |6.5|
 | Fighting Spirit Award            | Everyone!                    | | |
 
-* Bye counts as 0.5 for SOS
+
+- Bye counts as 0.5 for SOS
+
 
 ## Round 1
 ### Fri, Oct 23 @	7:00 PM (EDT)
