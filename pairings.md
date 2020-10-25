@@ -5,7 +5,7 @@
 ## Final Results
 
 | Place                      | Name                                               | Record | Sum of Opponents' Scores (SOS) |
-|:-----                      |:-----                                              |:--------:|
+|:-----                      |:-----                                              |:--------:| :--------:|
 | First Place            | Rich Chalmers <br/>(shauke)                    | 4-0      ||
 | Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |9.0|
 | Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |7.5|
