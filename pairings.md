@@ -19,7 +19,7 @@
 | White                      | Black                                              | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                              |:--------:|:----:|:------:|:---:|
 | **Rujun Ding <br/>(minicrab)**         | Dan Deneen	<br/>(dxhermit)             | 6        | 0.5  | W+Res. |  [SGF](/assets/sgf/r1/minicrab-dxhermit.sgf)   |
-| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Miss   |      |
+| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Bye   |      |
 | Quan Wei <br/>(wei2020)                | **Rich Chalmers <br/>(shauke)**        | 0        | 6.5  | B+Time | [SGF](/assets/sgf/r1/wei2020-shauke.sgf)    |
 | **Yuxin Xiao <br/>(xiaoyuxing)**       | Kasumi Sminkey <br/>(takuma63)         | 0        | 0.5  | W+Res. | [SGF](/assets/sgf/r1/xiaoyuxing-takuma63.sgf)    |
 | Peter Schumer <br/>(tenuki10)          |                                        |          |      | Bye    |     |
@@ -68,7 +68,7 @@
 | Charnon Kuechareon <br/>(Roietman)  |                                              |          |      |    Bye |     |
 | Yuxin Xiao <br/>(xiaoyuxing)        |                                              |          |      |    Bye |     |
 | Quan Wei <br/>(wei2020)             |                                              |          |      |    Bye |     |
-| Kasumi Sminkey <br/>(takuma63       | **Dan Deneen	<br/>(dxhermit)**              | 0        | 0.5  |  B+5.5 | [SGF](/assets/sgf/r4/takuma63-dxhermit.sgf)     |
+| Kasumi Sminkey <br/>(takuma63)      | **Dan Deneen	<br/>(dxhermit)**              | 0        | 0.5  |  B+5.5 | [SGF](/assets/sgf/r4/takuma63-dxhermit.sgf)     |
 | **Peter Schumer <br/>(tenuki10)**   | Bill Arrand <br/>(selasi)                    | 0        | 6.5  | W+14.5 | [SGF](/assets/sgf/r4/tenuki10-selasi.sgf)    |
 | **Jack Cary <br/>(jackcary)**       | Aaron Mitton <br/>(amitton)                  | 6        | 0.5  | W+20.5 | [SGF](/assets/sgf/r4/jackcary-amitton.sgf)    |
 | **John Hartman <br/>(mcwilli)**     | Ted Vogt <br/>(eaglepeak)                    | 9        | 0.5  | W+23.5 | [SGF](/assets/sgf/r4/mcwilli-eaglepeak.sgf)    |
