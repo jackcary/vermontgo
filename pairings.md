@@ -4,13 +4,13 @@
 
 ## Final Results
 
-| Place                      | Name                                               | Record | Sum of Opponents' Scores (SOS) |
+| Place                      | Name                                               | Record | Sum of Opponents' Scores |
 |:-----                      |:-----                                              |:--------:| :--------:|
 | First Place            | Rich Chalmers <br/>(shauke)                    | 4-0      ||
 | Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |9.0|
 | Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |7.5|
 | Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |6.5|
-|| Fighting Spirit Award            | Everyone!                    | |
+| Fighting Spirit Award            | Everyone!                    | | |
 
 * Bye counts as 0.5 for SOS
 
