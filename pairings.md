@@ -4,14 +4,15 @@
 
 ## Final Results
 
-| Place                      | Name                                               | Record | 
+| Place                      | Name                                               | Record | Sum of Opponents' Scores (SOS) |
 |:-----                      |:-----                                              |:--------:|
-| First Place            | Rich Chalmers <br/>(shauke)                    | 4-0      |
-| Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |
-| Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |
-| Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |
-| Fighting Spirit Award            | Everyone!                    | |
+| First Place            | Rich Chalmers <br/>(shauke)                    | 4-0      ||
+| Second Place            | Jack Cary <br/>(jackcary)                    | 3-1     |9.0|
+| Third Place            | Dan Deneen	<br/>(dxhermit)                     | 3-1      |7.5|
+| Fourth Place            | Caleb Lesher <br/>(OhNo789)                    | 3-1      |6.5|
+|| Fighting Spirit Award            | Everyone!                    | |
 
+* Bye counts as 0.5 for SOS
 
 ## Round 1
 ### Fri, Oct 23 @	7:00 PM (EDT)
@@ -19,7 +20,7 @@
 | White                      | Black                                              | Handicap | Komi | Result | SGF |
 |:-----                      |:-----                                              |:--------:|:----:|:------:|:---:|
 | **Rujun Ding <br/>(minicrab)**         | Dan Deneen	<br/>(dxhermit)             | 6        | 0.5  | W+Res. |  [SGF](/assets/sgf/r1/minicrab-dxhermit.sgf)   |
-| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Bye   |      |
+| Charnon Kuechareon <br/>(Roietman)     |                                        |          |      | Miss   |      |
 | Quan Wei <br/>(wei2020)                | **Rich Chalmers <br/>(shauke)**        | 0        | 6.5  | B+Time | [SGF](/assets/sgf/r1/wei2020-shauke.sgf)    |
 | **Yuxin Xiao <br/>(xiaoyuxing)**       | Kasumi Sminkey <br/>(takuma63)         | 0        | 0.5  | W+Res. | [SGF](/assets/sgf/r1/xiaoyuxing-takuma63.sgf)    |
 | Peter Schumer <br/>(tenuki10)          |                                        |          |      | Bye    |     |
